@@ -32,9 +32,6 @@ function loadYAML(name, f) {
 function loadLists() {
     getTemplateAjax('templates/to-read.hbars.html', function(tmpl) {
         loadYAML("to-read", function(yaml) {
-            yaml.sort(function(a,b) {
-                return a.author.localeCompare(b.author);
-            });
             $("#to-read").html(tmpl(yaml));
         });
     });
