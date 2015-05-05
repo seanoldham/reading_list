@@ -1,3 +1,1 @@
-require 'yaml'
-book = YAML.load_file('to-read.yaml').sample
-puts "#{book['author']} - #{book['title']}"
+require 'yaml' and YAML.load_file('to-read.yaml').sample.each_pair { |author,title| puts "#{author} - #{title}" }
