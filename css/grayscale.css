@@ -341,3 +341,11 @@ body {
 .modal-content {
     color: #000000;
 }
+
+.current-text {
+  color: rgb(66, 220, 163);
+}
+
+.next-text {
+  color: rgba(66, 220, 163, 0.7);
+}
