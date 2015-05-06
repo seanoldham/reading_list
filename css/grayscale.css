@@ -365,3 +365,9 @@ body {
   margin:0 5px 0 -15px;
   color: rgba(66, 220, 163, 0.7);
 }
+
+#book-logo {
+  background: -webkit-linear-gradient(rgb(66, 220, 163), rgba(66, 220, 163, 0.4));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
