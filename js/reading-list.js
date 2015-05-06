@@ -108,7 +108,8 @@ function loadTimeline(finished_yaml) {
     height: "400",
     source: timelineData,
     embed_id: 'finished-timeline',
-    start_at_end: true
+    start_at_end: true,
+    start_zoom_adjust: 3
   });
 }
 
