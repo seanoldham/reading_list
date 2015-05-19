@@ -58,8 +58,8 @@ function loadLists() {
       });
       function dateString(d) {
         return d.getUTCFullYear().toString() + "/" +
-          (d.getUTCMonth() + 1).toString() + "/" +
-          (d.getUTCDate() + 1).toString();
+          (d.getUTCMonth()).toString() + "/" +
+          (d.getUTCDate()).toString();
       }
       var len = yaml.length;
       for (var i = 0; i < len; i++) {
