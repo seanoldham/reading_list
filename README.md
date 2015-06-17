@@ -1,4 +1,9 @@
+
+
 # Reading List
+
+## From: [@bamos](https://github.com/bamos/reading-list)
+
 ![](https://raw.githubusercontent.com/bamos/reading-list/gh-pages/img/reading-list.gif)
 
 This repository contains my open source reading list.
