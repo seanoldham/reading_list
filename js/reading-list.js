@@ -132,4 +132,4 @@ $(document).ready(function() {
 
   loadLists();
 
-})
+});

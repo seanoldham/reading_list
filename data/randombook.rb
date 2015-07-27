@@ -1,12 +1,17 @@
 require 'yaml'
+
+def prettyBook(b)
+  "#{b['author']} - #{b['title']}"
+end
+
 books = YAML.load_file('to-read.yaml')
-book_list = books.sample(5)
+num_choices = 5
+book_list = books.sample(num_choices)
+
 puts "Choose a book:"
-puts "1. #{book_list[0]['author']} - #{book_list[0]['title']}"
-puts "2. #{book_list[1]['author']} - #{book_list[1]['title']}"
-puts "3. #{book_list[2]['author']} - #{book_list[2]['title']}"
-puts "4. #{book_list[3]['author']} - #{book_list[3]['title']}"
-puts "5. #{book_list[4]['author']} - #{book_list[4]['title']}"
+(1..num_choices).map { |n|
+  puts "#{n}. #{prettyBook(book_list[n-1])}"
+}
 puts "Input chosen book number: "
 book_number = gets
 chosen_book = book_list[book_number.to_i - 1]
