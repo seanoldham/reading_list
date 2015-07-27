@@ -260,6 +260,11 @@ a:focus {
     padding-top: 30px;
 }
 
+.count {
+  color: rgba(66, 220, 163, 0.75);
+  font-size: 0.75em;
+}
+
 .btn {
     border-radius: 0;
     text-transform: uppercase;
