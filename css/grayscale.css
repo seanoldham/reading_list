@@ -388,3 +388,7 @@ body {
 hr {
   border-top-color: rgba(66, 220, 163, 0.7);
 }
+
+#title-text {
+  font-size: 3em;
+}
