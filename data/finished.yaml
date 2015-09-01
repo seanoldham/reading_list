@@ -1,39 +1,48 @@
 - author:   Harper Lee
   title:    Go Set a Watchman
+  url:      "http://www.goodreads.com/book/show/24817626-go-set-a-watchman"
   finished: 2015-08-27
   rating:   5
 - author:   Jason Turbow
   title:    "The Baseball Codes: Beanballs, Sign Stealing, and Bench-Clearing Brawls: The Unwritten Rules of America's Pastime"
+  url:      "http://www.goodreads.com/book/show/6817054-the-baseball-codes"
   finished: 2015-08-25
   rating:   3
 - author:   Cormac McCarthy
   title:    The Road
+  url:      "http://www.goodreads.com/book/show/6288.The_Road"
   finished: 2015-07-10
   rating:   4
 - author:   Lyndsay Faye
   title:    The Gods of Gotham
+  url:      "http://www.goodreads.com/book/show/11890816-the-gods-of-gotham"
   finished: 2015-06-26
   rating:   4
 - author:   Anthony Doerr
   title:    All the Light We Cannot See
+  url:      "http://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see"
   finished: 2015-05-08
   rating:   4
 - author:   Neil Gaiman, Terry Pratchett
   title:    Good Omens
+  url:      "http://www.goodreads.com/book/show/11865807-good-omens"
   finished: 2015-05-02
   rating:   3
-- author: William Landay
-  title: Defending Jacob
+- author:   William Landay
+  title:    Defending Jacob
+  url:      "http://www.goodreads.com/book/show/11367726-defending-jacob"
   finished: 2015-03-20
-  rating: 3
-- author: Anthony Lewis
-  title: Rails Crash Course
+  rating:   3
+- author:   Anthony Lewis
+  title:    Rails Crash Course
+  url:      "http://www.goodreads.com/book/show/23597487-rails-crash-course"
   finished: 2015-03-02
-  rating: 5
-- author: Andy Weir
-  title: The Martian
+  rating:   5
+- author:   Andy Weir
+  title:    The Martian
+  url:      "http://www.goodreads.com/book/show/18007564-the-martian"
   finished: 2015-02-08
-  rating: 5
+  rating:   5
   quotes:
     - page: 36
       content: Damn it, Jim, I'm a botanist, not a chemist!
@@ -55,10 +64,11 @@
       content: As it is, going only south, I'm not nearly as fast. I'm traveling 90 kilometers per day as usual, but I only get 37 kilometers closer to Schiaparelli because Pythagoras is a dick.
     - page: 318
       content: I started the day with some nothin' tea. Nothin' teas is easy to make. First, get some hot water, then add nothin'.
-- author: Gillian Flynn
-  title: Gone Girl
+- author:   Gillian Flynn
+  title:    Gone Girl
+  url:      "http://www.goodreads.com/book/show/8442457-gone-girl"
   finished: 2015-01-26
-  rating: 4
+  rating:   4
   quotes:
     - page: 3
       content: "My eyes flipped open at exactly six A.M. This was no avian fluttering of the lashes, no gentle blink toward consciousness. The awakening was mechanical. A spooky ventriloquist-dummy click of the lids: The world is black and then, showtime! 6-0-0 the clock said -in my face, first thing I saw. 6-0-0. It felt different. I rarely woke at such a rounded time. I was a man of jagged risings: 8:43, 11:51, 9:26. My life was alarmless."
@@ -70,67 +80,83 @@
       content: Republicans go to Sam's Club, Democrats go to Costco.
     - page: 221
       content: I ruined my mother's womb in the process - my own prenatal Sherman's March.
-- author: John Scalzi
-  title: The Ghost Brigades
+- author:   John Scalzi
+  title:    The Ghost Brigades
+  url:      "http://www.goodreads.com/book/show/239399.The_Ghost_Brigades"
   finished: 2014-10-22
-  rating: 4
-- author: John Scalzi
-  title: Lock In
+  rating:   4
+- author:   John Scalzi
+  title:    Lock In
+  url:      "http://www.goodreads.com/book/show/21418013-lock-in"
   finished: 2014-09-01
-  rating: 4
-- author: Daniel Suarez
-  title: Daemon
+  rating:   4
+- author:   Daniel Suarez
+  title:    Daemon
+  url:      "http://www.goodreads.com/book/show/4699575-daemon"
   finished: 2014-08-22
-  rating: 3
-- author: Orson Scott Card
-  title: Seventh Son
+  rating:   3
+- author:   Orson Scott Card
+  title:    Seventh Son
+  url:      "http://www.goodreads.com/book/show/40290.Seventh_Son"
   finished: 2014-07-01
-  rating: 3
-- author: Craig Clevenger
-  title: The Contortionist's Handbook
+  rating:   3
+- author:   Craig Clevenger
+  title:    The Contortionist's Handbook
+  url:      "http://www.goodreads.com/book/show/527823.The_Contortionist_s_Handbook"
   finished: 2014-05-26
-  rating: 3
-- author: Edwin A. Abbott
-  title: "Flatland: A Romance of Many Dimensions"
+  rating:   3
+- author:   Edwin A. Abbott
+  title:    "Flatland: A Romance of Many Dimensions"
+  url:      "http://www.goodreads.com/book/show/433567.Flatland"
   finished: 2014-04-30
-  rating: 3
-- author: Douglas Adams
-  title: The Hitchhiker's Guide to the Galaxy
+  rating:   3
+- author:   Douglas Adams
+  title:    The Hitchhiker's Guide to the Galaxy
+  url:      "http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy"
   finished: 2014-04-27
-  rating: 4
-- author: J.R.R Tolkien
-  title: The Hobbit
+  rating:   4
+- author:   J.R.R Tolkien
+  title:    The Hobbit
+  url:      "http://www.goodreads.com/book/show/5907.The_Hobbit"
   finished: 2014-01-24
-  rating: 4
-- author: Paulo Coelho
-  title: The Alchemist
+  rating:   4
+- author:   Paulo Coelho
+  title:    The Alchemist
+  url:      "http://www.goodreads.com/book/show/865.The_Alchemist"
   finished: 2013-12-31
-  rating: 1
-- author: Ernest Cline
-  title: Ready Player One
+  rating:   1
+- author:   Ernest Cline
+  title:    Ready Player One
+  url:      "http://www.goodreads.com/book/show/9969571-ready-player-one"
   finished: 2013-12-09
-  rating: 4
-- author: Lois Lowry
-  title: The Giver
+  rating:   4
+- author:   Lois Lowry
+  title:    The Giver
+  url:      "http://www.goodreads.com/book/show/3636.The_Giver"
   finished: 2013-10-31
-  rating: 3
-- author: Dan Brown
-  title: Inferno
+  rating:   3
+- author:   Dan Brown
+  title:    Inferno
+  url:      "http://www.goodreads.com/book/show/17212231-inferno"
   finished: 2013-09-08
-  rating: 2
-- author: Ian Caldwell
-  title: The Rule of Four
+  rating:   2
+- author:   Ian Caldwell
+  title:    The Rule of Four
+  url:      "http://www.goodreads.com/book/show/18431.The_Rule_of_Four"
   finished: 2013-03-25
-  rating: 2
-- author: John Scalzi
-  title: Old Man's War
+  rating:   2
+- author:   John Scalzi
+  title:    Old Man's War
+  url:      "http://www.goodreads.com/book/show/51964.Old_Man_s_War"
   finished: 2013-02-12
-  rating: 3
-- author: Orson Scott Card
-  title: Ender's Game
+  rating:   3
+- author:   Orson Scott Card
+  title:    Ender's Game
+  url:      "http://www.goodreads.com/book/show/375802.Ender_s_Game"
   finished: 2012-11-06
-  rating: 5
-- author: Erik Larson
-  title: "The Devil in the White City: Murder, Magic, and Madness at the Fair that Changed America"
+  rating:   5
+- author:   Erik Larson
+  title:    "The Devil in the White City: Murder, Magic, and Madness at the Fair that Changed America"
+  url:      "http://www.goodreads.com/book/show/21996.The_Devil_in_the_White_City"
   finished: 2012-02-13
-  rating: 3
+  rating:   3
