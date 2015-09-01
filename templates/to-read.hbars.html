@@ -1,5 +1,5 @@
 <ul id="to-read-list">
   {{#each this}}
-  <li class="to-read-book"><strong class="author">{{this.author}}</strong>: <em>{{this.title}}</em></li>
+  <li class="to-read-book"><a href="{{this.url}}" target="_blank" class="book-url"><strong class="author">{{this.author}}</strong>: <em>{{this.title}}</em></a></li>
   {{/each}}
 </ul>
