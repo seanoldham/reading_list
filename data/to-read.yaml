@@ -328,9 +328,6 @@
 - author: Drew Magary
   title:  "The Postmortal"
   url:    "http://www.goodreads.com/book/show/10673576-the-postmortal"
-- author: Emily St. John Mandel
-  title:  "Station Eleven"
-  url:    "http://www.goodreads.com/book/show/20170404-station-eleven"
 - author: P.J. Manney
   title:  "(R)evolution"
   url:    "http://www.goodreads.com/book/show/23545030-r-evolution"
@@ -446,20 +443,20 @@
   title:  "The Music of the Primes: Searching to Solve the Greatest Mystery in Mathematics"
   url:    "http://www.goodreads.com/book/show/208916.The_Music_of_the_Primes"
 - author: John Scalzi
-  title:  "The Last Colony (Old Man's War #3)"
-  url:    "http://www.goodreads.com/book/show/88071.The_Last_Colony"
+  title:  "Redshirts"
+  url:    "http://www.goodreads.com/book/show/13055592-redshirts"
 - author: John Scalzi
   title:  "Fuzzy Nation"
   url:    "http://www.goodreads.com/book/show/9647532-fuzzy-nation"
 - author: John Scalzi
-  title:  "The Android's Dream"
-  url:    "http://www.goodreads.com/book/show/7081.The_Android_s_Dream"
-- author: John Scalzi
   title:  "Agent to the Stars"
   url:    "http://www.goodreads.com/book/show/88072.Agent_to_the_Stars"
 - author: John Scalzi
-  title:  "Redshirts"
-  url:    "http://www.goodreads.com/book/show/13055592-redshirts"
+  title:  "The Android's Dream"
+  url:    "http://www.goodreads.com/book/show/7081.The_Android_s_Dream"
+- author: John Scalzi
+  title:  "The Last Colony (Old Man's War #3)"
+  url:    "http://www.goodreads.com/book/show/88071.The_Last_Colony"
 - author: Brent Schlender
   title:  "Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader"
   url:    "http://www.goodreads.com/book/show/23395719-becoming-steve-jobs"
@@ -488,14 +485,14 @@
   title:  "Of Mice and Men"
   url:    "http://www.goodreads.com/book/show/890.Of_Mice_and_Men"
 - author: Neal Stephenson
+  title:  "The Diamond Age: or, A Young Lady's Illustrated Primer"
+  url:    "http://www.goodreads.com/book/show/827.The_Diamond_Age"
+- author: Neal Stephenson
   title:  "Interface"
   url:    "http://www.goodreads.com/book/show/828.Interface"
 - author: Neal Stephenson
   title:  "Zodiac"
   url:    "http://www.goodreads.com/book/show/825.Zodiac"
-- author: Neal Stephenson
-  title:  "The Diamond Age: or, A Young Lady's Illustrated Primer"
-  url:    "http://www.goodreads.com/book/show/827.The_Diamond_Age"
 - author: Ian Stewart
   title:  "Flatterland: Like Flatland Only More So"
   url:    "http://www.goodreads.com/book/show/17033.Flatterland"
@@ -539,11 +536,11 @@
   title:  "Matter of Resistance"
   url:    "http://www.goodreads.com/book/show/18251073-matter-of-resistance"
 - author: Kurt Vonnegut
-  title:  "Slaughterhouse-Five"
-  url:    "http://www.goodreads.com/book/show/4981.Slaughterhouse_Five"
-- author: Kurt Vonnegut
   title:  "Cat's Cradle"
   url:    "http://www.goodreads.com/book/show/135479.Cat_s_Cradle"
+- author: Kurt Vonnegut
+  title:  "Slaughterhouse-Five"
+  url:    "http://www.goodreads.com/book/show/4981.Slaughterhouse_Five"
 - author: John Waters
   title:  "Carsick"
   url:    "http://www.goodreads.com/book/show/18490657-carsick"
@@ -563,11 +560,11 @@
   title:  "Doomsday Book (Oxford Time Travel, #1)"
   url:    "http://www.goodreads.com/book/show/24983.Doomsday_Book"
 - author: Daniel H. Wilson
-  title:  "Robopocalypse (Robopocalypse, #1)"
-  url:    "http://www.goodreads.com/book/show/9634967-robopocalypse"
-- author: Daniel H. Wilson
   title:  "Amped"
   url:    "http://www.goodreads.com/book/show/12678461-amped"
+- author: Daniel H. Wilson
+  title:  "Robopocalypse (Robopocalypse, #1)"
+  url:    "http://www.goodreads.com/book/show/9634967-robopocalypse"
 - author: Robert Charles Wilson
   title:  "Spin (Spin, #1)"
   url:    "http://www.goodreads.com/book/show/910863.Spin"
