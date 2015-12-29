@@ -165,6 +165,11 @@
   url:      "http://www.goodreads.com/book/show/375802.Ender_s_Game"
   finished: 2012-11-06
   rating:   5
+- author:   Dennis Batchelder
+  title:    Soul Identity
+  url:      "https://www.goodreads.com/book/show/1813510"
+  finished: 2012-10-31
+  rating:   1
 - author:   Erik Larson
   title:    "The Devil in the White City: Murder, Magic, and Madness at the Fair that Changed America"
   url:      "http://www.goodreads.com/book/show/21996.The_Devil_in_the_White_City"
