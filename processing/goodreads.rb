@@ -22,4 +22,5 @@ File.open("../data/to-read.yaml", "w") do |file|
     url = book["book"]["link"]
     file.puts "- author: #{author}\n  title:  \"#{title}\"\n  url:    \"#{url}\""
   end
+  
 end
