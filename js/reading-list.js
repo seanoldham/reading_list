@@ -130,6 +130,14 @@ $(document).ready(function() {
     return variable.replace(/(['"])/g, '\\$1');
   });
 
+  Handlebars.registerHelper('divide', function(book) {
+    var quotient = 0.0;
+    var percentage = 0;
+    quotient = book.page / book.total;
+    percentage = Math.floor(quotient * 100);
+    return percentage;
+  })
+
   loadLists();
 
 });
