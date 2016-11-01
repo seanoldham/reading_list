@@ -5,28 +5,25 @@ client = Goodreads::Client.new(api_key: KEY, api_secret: SECRET)
 
 File.open("../data/to-read.yaml", "w") do |file|
 
-  shelf = client.shelf(USER_ID, "to-read", sort: "author", per_page: 200, page: 1)
-  sorted_books = shelf.books.sort_by do |book|
-    [book['book']['authors']['author']['name'], book['book']['title']]
-  end
+page = 1
+total_pages = 2 # Each page holds 200 books, adjust total_pages accordingly.
 
-  sorted_books.each do |book|
-    author = book["book"]["authors"]["author"]["name"]
-    title = book["book"]["title"]
-    url = book["book"]["link"]
-    file.puts "- author: #{author}\n  title:  \"#{title}\"\n  url:    \"#{url}\""
-  end
+  while page <= total_pages do
 
-  shelf = client.shelf(USER_ID, "to-read", sort: "author", per_page: 200, page: 2)
-  sorted_books = shelf.books.sort_by do |book|
-    [book['book']['authors']['author']['name'], book['book']['title']]
-  end
-  
-  sorted_books.each do |book|
-    author = book["book"]["authors"]["author"]["name"]
-    title = book["book"]["title"]
-    url = book["book"]["link"]
-    file.puts "- author: #{author}\n  title:  \"#{title}\"\n  url:    \"#{url}\""
+    shelf = client.shelf(USER_ID, "to-read", sort: "author", per_page: 200, page: page)
+    sorted_books = shelf.books.sort_by do |book|
+      [book['book']['authors']['author']['name'], book['book']['title']]
+    end
+
+    sorted_books.each do |book|
+      author = book["book"]["authors"]["author"]["name"]
+      title = book["book"]["title"]
+      url = book["book"]["link"]
+      file.puts "- author: #{author}\n  title:  \"#{title}\"\n  url:    \"#{url}\""
+    end
+
+    page += 1
+
   end
 
 end
