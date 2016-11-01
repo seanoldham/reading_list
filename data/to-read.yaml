@@ -1,453 +1,525 @@
-- author: J.J. Abrams
-  title:  "S."
-  url:    "http://www.goodreads.com/book/show/17860739-s"
-- author: John Joseph Adams
-  title:  "The End is Nigh"
-  url:    "http://www.goodreads.com/book/show/18870640-the-end-is-nigh"
-- author: Katherine Addison
-  title:  "The Goblin Emperor"
-  url:    "http://www.goodreads.com/book/show/17910048-the-goblin-emperor"
+- author: A.J. Baime
+  title:  "The Arsenal of Democracy: FDR, Detroit, and an Epic Quest to Arm an America at War"
+  url:    "http://www.goodreads.com/book/show/18492220-the-arsenal-of-democracy"
+- author: Albert Camus
+  title:  "The Stranger"
+  url:    "http://www.goodreads.com/book/show/49552.The_Stranger"
+- author: Aldous Huxley
+  title:  "Brave New World"
+  url:    "http://www.goodreads.com/book/show/5129.Brave_New_World"
+- author: Alexander Drake
+  title:  "The Invention of Christianity"
+  url:    "http://www.goodreads.com/book/show/13643604-the-invention-of-christianity"
+- author: Alexander Freed
+  title:  "Battlefront: Twilight Company"
+  url:    "http://www.goodreads.com/book/show/25455901-battlefront"
+- author: Andrew Hodges
+  title:  "Alan Turing: The Enigma"
+  url:    "http://www.goodreads.com/book/show/150731.Alan_Turing"
+- author: Angela Duckworth
+  title:  "Grit: Passion, Perseverance, and the Science of Success"
+  url:    "http://www.goodreads.com/book/show/25814485-grit"
+- author: Ann Leckie
+  title:  "Ancillary Justice (Imperial Radch, #1)"
+  url:    "http://www.goodreads.com/book/show/17333324-ancillary-justice"
+- author: Annie   Jacobsen
+  title:  "The Pentagon's Brain: An Uncensored History of DARPA, America's Top-Secret Military Research Agency"
+  url:    "http://www.goodreads.com/book/show/24396871-the-pentagon-s-brain"
+- author: Arthur Conan Doyle
+  title:  "The Complete Sherlock Holmes"
+  url:    "http://www.goodreads.com/book/show/16566323-the-complete-sherlock-holmes"
+- author: Aubrey de Grey
+  title:  "Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime"
+  url:    "http://www.goodreads.com/book/show/519781.Ending_Aging"
+- author: Barnes W. McCormick
+  title:  "Aerodynamics, Aeronautics, and Flight Mechanics"
+  url:    "http://www.goodreads.com/book/show/6365681-aerodynamics-aeronautics-and-flight-mechanics"
+- author: Ben Lindbergh
+  title:  "The Only Rule Is It Has to Work: Our Wild Experiment Building a New Kind of Baseball Team"
+  url:    "http://www.goodreads.com/book/show/26792284-the-only-rule-is-it-has-to-work"
+- author: Ben Macintyre
+  title:  "Agent Zigzag: A True Story of Nazi Espionage, Love, and Betrayal"
+  url:    "http://www.goodreads.com/book/show/655627.Agent_Zigzag"
+- author: Ben Macintyre
+  title:  "Double Cross: The True Story of the D-Day Spies"
+  url:    "http://www.goodreads.com/book/show/13154628-double-cross"
+- author: Ben Mezrich
+  title:  "Sex on the Moon: The Amazing Story Behind the Most Audacious Heist in History"
+  url:    "http://www.goodreads.com/book/show/10021420-sex-on-the-moon"
+- author: Bill Bryson
+  title:  "A Short History of Nearly Everything"
+  url:    "http://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything"
+- author: Blake Crouch
+  title:  "Dark Matter"
+  url:    "http://www.goodreads.com/book/show/27833670-dark-matter"
+- author: Brian Kilmeade
+  title:  "George Washington's Secret Six: The Spy Ring That Saved the American Revolution"
+  url:    "http://www.goodreads.com/book/show/17707603-george-washington-s-secret-six"
 - author: Buzz Aldrin
   title:  "No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon"
   url:    "http://www.goodreads.com/book/show/25893724-no-dream-is-too-high"
-- author: David Allen
-  title:  "Getting Things Done: The Art of Stress-Free Productivity"
-  url:    "http://www.goodreads.com/book/show/1633.Getting_Things_Done"
+- author: Candice Millard
+  title:  "Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President"
+  url:    "http://www.goodreads.com/book/show/10335318-destiny-of-the-republic"
+- author: Cary Elwes
+  title:  "As You Wish: Inconceivable Tales from the Making of The Princess Bride"
+  url:    "http://www.goodreads.com/book/show/21412202-as-you-wish"
+- author: Chad Harbach
+  title:  "The Art of Fielding"
+  url:    "http://www.goodreads.com/book/show/10996342-the-art-of-fielding"
+- author: Charles Duhigg
+  title:  "Smarter Faster Better: The Secrets of Being Productive in Life and Business"
+  url:    "http://www.goodreads.com/book/show/25733966-smarter-faster-better"
+- author: China Miéville
+  title:  "Perdido Street Station (Bas-Lag, #1)"
+  url:    "http://www.goodreads.com/book/show/68494.Perdido_Street_Station"
+- author: China Miéville
+  title:  "The City & the City"
+  url:    "http://www.goodreads.com/book/show/4703581-the-city-the-city"
+- author: Chris Hadfield
+  title:  "An Astronaut's Guide to Life on Earth"
+  url:    "http://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth"
+- author: Chris Impey
+  title:  "Beyond: Our Future in Space"
+  url:    "http://www.goodreads.com/book/show/22253730-beyond"
+- author: Christie Golden
+  title:  "Dark Disciple"
+  url:    "http://www.goodreads.com/book/show/23277298-dark-disciple"
+- author: Christopher Brookmyre
+  title:  "Bedlam"
+  url:    "http://www.goodreads.com/book/show/15998964-bedlam"
+- author: Christopher Moore
+  title:  "Lamb: The Gospel According to Biff, Christ's Childhood Pal"
+  url:    "http://www.goodreads.com/book/show/28881.Lamb"
 - author: Claudia Azula Altucher
   title:  "Become An Idea Machine: Because Ideas Are The Currency Of The 21st Century"
   url:    "http://www.goodreads.com/book/show/24416709-become-an-idea-machine"
+- author: Claudia Gray
+  title:  "Bloodline"
+  url:    "http://www.goodreads.com/book/show/27209239-bloodline"
+- author: Cornelia Funke
+  title:  "Inkheart (Inkworld, #1)"
+  url:    "http://www.goodreads.com/book/show/28194.Inkheart"
+- author: Daco
+  title:  "The Libra Affair"
+  url:    "http://www.goodreads.com/book/show/17433933-the-libra-affair"
 - author: Dan Ariely
   title:  "Predictably Irrational: The Hidden Forces That Shape Our Decisions"
   url:    "http://www.goodreads.com/book/show/1713426.Predictably_Irrational"
-- author: Kate Ascher
-  title:  "The Works: Anatomy of a City"
-  url:    "http://www.goodreads.com/book/show/116170.The_Works"
-- author: Madeline Ashby
-  title:  "Company Town"
-  url:    "http://www.goodreads.com/book/show/25659460-company-town"
+- author: Dan Barry
+  title:  "Bottom of the 33rd: Hope, Redemption, and Baseball's Longest Game"
+  url:    "http://www.goodreads.com/book/show/10410420-bottom-of-the-33rd"
+- author: Dan Brown
+  title:  "Digital Fortress"
+  url:    "http://www.goodreads.com/book/show/11125.Digital_Fortress"
+- author: Dan Brown
+  title:  "Origin (Robert Langdon, #5)"
+  url:    "http://www.goodreads.com/book/show/32283133-origin"
+- author: Daniel Kahneman
+  title:  "Thinking, Fast and Slow"
+  url:    "http://www.goodreads.com/book/show/11468377-thinking-fast-and-slow"
+- author: Dashiell Hammett
+  title:  "The Thin Man"
+  url:    "http://www.goodreads.com/book/show/80616.The_Thin_Man"
+- author: David Allen
+  title:  "Getting Things Done: The Art of Stress-Free Productivity"
+  url:    "http://www.goodreads.com/book/show/1633.Getting_Things_Done"
+- author: David E. Hoffman
+  title:  "The Billion Dollar Spy: A True Story of Cold War Espionage and Betrayal"
+  url:    "http://www.goodreads.com/book/show/23463183-the-billion-dollar-spy"
+- author: David Heinemeier Hansson
+  title:  "Remote: Office Not Required"
+  url:    "http://www.goodreads.com/book/show/17316682-remote"
+- author: David Kahn
+  title:  "The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet"
+  url:    "http://www.goodreads.com/book/show/29608.The_Codebreakers"
+- author: David McCullough
+  title:  "John Adams"
+  url:    "http://www.goodreads.com/book/show/2203.John_Adams"
+- author: David McCullough
+  title:  "The Wright Brothers"
+  url:    "http://www.goodreads.com/book/show/22609391-the-wright-brothers"
+- author: David Mitchell
+  title:  "The Bone Clocks"
+  url:    "http://www.goodreads.com/book/show/20819685-the-bone-clocks"
+- author: Donald L. Barlett
+  title:  "Howard Hughes: His Life and Madness"
+  url:    "http://www.goodreads.com/book/show/320861.Howard_Hughes"
+- author: Drew Magary
+  title:  "The Postmortal"
+  url:    "http://www.goodreads.com/book/show/10673576-the-postmortal"
+- author: E.K. Johnston
+  title:  "Ahsoka"
+  url:    "http://www.goodreads.com/book/show/29749107-ahsoka"
+- author: E.M. Forster
+  title:  "The Machine Stops"
+  url:    "http://www.goodreads.com/book/show/4711854-the-machine-stops"
+- author: Ed Finn
+  title:  "Hieroglyph: Stories and Visions for a Better Future"
+  url:    "http://www.goodreads.com/book/show/20306794-hieroglyph"
+- author: Edgar Rice Burroughs
+  title:  "A Princess of Mars (Barsoom, #1)"
+  url:    "http://www.goodreads.com/book/show/40395.A_Princess_of_Mars"
+- author: Elizabeth Kolbert
+  title:  "The Sixth Extinction: An Unnatural History"
+  url:    "http://www.goodreads.com/book/show/17910054-the-sixth-extinction"
+- author: Emma Donoghue
+  title:  "Room"
+  url:    "http://www.goodreads.com/book/show/7937843-room"
+- author: Eoin Colfer
+  title:  "Artemis Fowl (Artemis Fowl, #1)"
+  url:    "http://www.goodreads.com/book/show/249747.Artemis_Fowl"
+- author: Eric Blehm
+  title:  "Legend: The Incredible Story of Green Beret Sergeant Roy Benavidez's Heroic Mission to Rescue a Special Forces Team Caught Behind Enemy Lines"
+  url:    "http://www.goodreads.com/book/show/22856189-legend"
+- author: Erik Larson
+  title:  "Dead Wake: The Last Crossing of the Lusitania"
+  url:    "http://www.goodreads.com/book/show/22551730-dead-wake"
+- author: Erik Larson
+  title:  "In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin"
+  url:    "http://www.goodreads.com/book/show/9938498-in-the-garden-of-beasts"
+- author: Erik Larson
+  title:  "Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History"
+  url:    "http://www.goodreads.com/book/show/239186.Isaac_s_Storm"
+- author: Frank Herbert
+  title:  "Dune (Dune Chronicles #1)"
+  url:    "http://www.goodreads.com/book/show/234225.Dune"
+- author: Fyodor Dostoyevsky
+  title:  "The Brothers Karamazov"
+  url:    "http://www.goodreads.com/book/show/4934.The_Brothers_Karamazov"
+- author: Gary Jennings
+  title:  "Aztec (Aztec, #1)"
+  url:    "http://www.goodreads.com/book/show/550454.Aztec"
+- author: Geoff Manaugh
+  title:  "A Burglar's Guide to the City"
+  url:    "http://www.goodreads.com/book/show/22237142-a-burglar-s-guide-to-the-city"
+- author: George Dyson
+  title:  "Turing's Cathedral: The Origins of the Digital Universe"
+  url:    "http://www.goodreads.com/book/show/12625589-turing-s-cathedral"
+- author: George S. Clason
+  title:  "The Richest Man in Babylon"
+  url:    "http://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon"
+- author: Glenn Greenwald
+  title:  "With Liberty and Justice for Some: How the Law is Used to Destroy Equality and Protect the Powerful"
+  url:    "http://www.goodreads.com/book/show/9750406-with-liberty-and-justice-for-some"
+- author: Hans Magnus Enzensberger
+  title:  "The Number Devil: A Mathematical Adventure"
+  url:    "http://www.goodreads.com/book/show/91358.The_Number_Devil"
+- author: Henry   Hill
+  title:  "The Lufthansa Heist"
+  url:    "http://www.goodreads.com/book/show/22967544-the-lufthansa-heist"
+- author: Hugh Howey
+  title:  "The Wool Trilogy (Silo, #1-3)"
+  url:    "http://www.goodreads.com/book/show/20745447-the-wool-trilogy"
+- author: Iain M. Banks
+  title:  "Consider Phlebas (Culture, #1)"
+  url:    "http://www.goodreads.com/book/show/8935689-consider-phlebas"
+- author: Isaac Asimov
+  title:  "Foundation (Foundation, #1)"
+  url:    "http://www.goodreads.com/book/show/29579.Foundation"
 - author: Isaac Asimov
   title:  "Nightfall"
   url:    "http://www.goodreads.com/book/show/99245.Nightfall"
 - author: Isaac Asimov
   title:  "The Caves of Steel (Robot, #1)"
   url:    "http://www.goodreads.com/book/show/41811.The_Caves_of_Steel"
-- author: Isaac Asimov
-  title:  "Foundation (Foundation, #1)"
-  url:    "http://www.goodreads.com/book/show/29579.Foundation"
-- author: Paul Auster
-  title:  "City of Glass (The New York Trilogy, #1)"
-  url:    "http://www.goodreads.com/book/show/432.City_of_Glass"
-- author: Paolo Bacigalupi
-  title:  "The Windup Girl"
-  url:    "http://www.goodreads.com/book/show/6597651-the-windup-girl"
-- author: A.J. Baime
-  title:  "The Arsenal of Democracy: FDR, Detroit, and an Epic Quest to Arm an America at War"
-  url:    "http://www.goodreads.com/book/show/18492220-the-arsenal-of-democracy"
-- author: Iain M. Banks
-  title:  "Consider Phlebas (Culture, #1)"
-  url:    "http://www.goodreads.com/book/show/8935689-consider-phlebas"
-- author: Donald L. Barlett
-  title:  "Howard Hughes: His Life and Madness"
-  url:    "http://www.goodreads.com/book/show/320861.Howard_Hughes"
+- author: J.B. Millhollin
+  title:  "Brakus (Brakus #1)"
+  url:    "http://www.goodreads.com/book/show/20982528-brakus"
+- author: J.E. Gordon
+  title:  "Structures: Or Why Things Don't Fall Down"
+  url:    "http://www.goodreads.com/book/show/245344.Structures"
+- author: J.J. Abrams
+  title:  "S."
+  url:    "http://www.goodreads.com/book/show/17860739-s"
 - author: James Barrat
   title:  "Our Final Invention: Artificial Intelligence and the End of the Human Era"
   url:    "http://www.goodreads.com/book/show/17286699-our-final-invention"
-- author: John D. Barrow
-  title:  "The Infinite Book: A Short Guide to the Boundless, Timeless and Endless"
-  url:    "http://www.goodreads.com/book/show/218099.The_Infinite_Book"
-- author: Dan Barry
-  title:  "Bottom of the 33rd: Hope, Redemption, and Baseball's Longest Game"
-  url:    "http://www.goodreads.com/book/show/10410420-bottom-of-the-33rd"
-- author: Max Barry
-  title:  "Lexicon"
-  url:    "http://www.goodreads.com/book/show/16158596-lexicon"
-- author: Petr Beckmann
-  title:  "A History of π"
-  url:    "http://www.goodreads.com/book/show/586616.A_History_of_"
-- author: Robert Jackson Bennett
-  title:  "City of Stairs (The Divine Cities, #1)"
-  url:    "http://www.goodreads.com/book/show/20174424-city-of-stairs"
-- author: Lee Billings
-  title:  "Five Billion Years of Solitude: The Search for Life Among the Stars"
-  url:    "http://www.goodreads.com/book/show/17707637-five-billion-years-of-solitude"
-- author: Kai Bird
-  title:  "The Good Spy: The Life and Death of Robert Ames"
-  url:    "http://www.goodreads.com/book/show/18373198-the-good-spy"
-- author: Kai Bird
-  title:  "American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer"
-  url:    "http://www.goodreads.com/book/show/80571.American_Prometheus"
-- author: Eric Blehm
-  title:  "Legend: The Incredible Story of Green Beret Sergeant Roy Benavidez's Heroic Mission to Rescue a Special Forces Team Caught Behind Enemy Lines"
-  url:    "http://www.goodreads.com/book/show/22856189-legend"
-- author: Nick Bostrom
-  title:  "Superintelligence: Paths, Dangers, Strategies"
-  url:    "http://www.goodreads.com/book/show/20527133-superintelligence"
-- author: Ryan Boudinot
-  title:  "Blueprints of the Afterlife"
-  url:    "http://www.goodreads.com/book/show/8856041-blueprints-of-the-afterlife"
-- author: Ray Bradbury
-  title:  "Fahrenheit 451"
-  url:    "http://www.goodreads.com/book/show/17470674-fahrenheit-451"
-- author: Ryan Britt
-  title:  "Luke Skywalker Can't Read: And Other Geeky Truths"
-  url:    "http://www.goodreads.com/book/show/24611638-luke-skywalker-can-t-read"
-- author: Christopher Brookmyre
-  title:  "Bedlam"
-  url:    "http://www.goodreads.com/book/show/15998964-bedlam"
+- author: James Dashner
+  title:  "The Maze Runner (Maze Runner, #1)"
+  url:    "http://www.goodreads.com/book/show/6186357-the-maze-runner"
+- author: James Gleick
+  title:  "Isaac Newton"
+  url:    "http://www.goodreads.com/book/show/17098.Isaac_Newton"
+- author: James Luceno
+  title:  "Tarkin"
+  url:    "http://www.goodreads.com/book/show/22012250-tarkin"
+- author: James S.A. Corey
+  title:  "Leviathan Wakes (Expanse, #1)"
+  url:    "http://www.goodreads.com/book/show/8855321-leviathan-wakes"
+- author: Jane Mayer
+  title:  "Dark Money: The Hidden History of the Billionaires Behind the Rise of the Radical Right"
+  url:    "http://www.goodreads.com/book/show/27833614-dark-money"
+- author: Jay M. Feinman
+  title:  "Law 101"
+  url:    "http://www.goodreads.com/book/show/7894228-law-101"
+- author: Jay McGavren
+  title:  "Head First Ruby: A Brain-Friendly Guide"
+  url:    "http://www.goodreads.com/book/show/23466394-head-first-ruby"
+- author: Joe Haldeman
+  title:  "The Accidental Time Machine"
+  url:    "http://www.goodreads.com/book/show/21608.The_Accidental_Time_Machine"
+- author: Joe Haldeman
+  title:  "The Forever War (The Forever War, #1)"
+  url:    "http://www.goodreads.com/book/show/21611.The_Forever_War"
 - author: John Brooks
   title:  "Business Adventures"
   url:    "http://www.goodreads.com/book/show/4191136-business-adventures"
+- author: John Browne
+  title:  "Seven Elements That Have Changed the World: An Adventure of Ingenuity and Discovery"
+  url:    "http://www.goodreads.com/book/show/17654741-seven-elements-that-have-changed-the-world"
+- author: John D. Barrow
+  title:  "The Infinite Book: A Short Guide to the Boundless, Timeless and Endless"
+  url:    "http://www.goodreads.com/book/show/218099.The_Infinite_Book"
+- author: John D. Clark
+  title:  "Ignition!: An informal history of liquid rocket propellants"
+  url:    "http://www.goodreads.com/book/show/677285.Ignition_"
+- author: John Derbyshire
+  title:  "Unknown Quantity: A Real and Imaginary History of Algebra"
+  url:    "http://www.goodreads.com/book/show/551722.Unknown_Quantity"
+- author: John Hersey
+  title:  "Hiroshima"
+  url:    "http://www.goodreads.com/book/show/27323.Hiroshima"
+- author: John Jackson Miller
+  title:  "A New Dawn"
+  url:    "http://www.goodreads.com/book/show/20262705-a-new-dawn"
+- author: John Joseph Adams
+  title:  "The End is Nigh"
+  url:    "http://www.goodreads.com/book/show/18870640-the-end-is-nigh"
+- author: John MacCormick
+  title:  "Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today's Computers"
+  url:    "http://www.goodreads.com/book/show/12413727-nine-algorithms-that-changed-the-future"
+- author: Jon Gertner
+  title:  "The Idea Factory: Bell Labs and the Great Age of American Innovation"
+  url:    "http://www.goodreads.com/book/show/11797471-the-idea-factory"
+- author: Jon Meacham
+  title:  "American Lion: Andrew Jackson in the White House"
+  url:    "http://www.goodreads.com/book/show/3147367-american-lion"
+- author: Jon Meacham
+  title:  "Thomas Jefferson: The Art of Power"
+  url:    "http://www.goodreads.com/book/show/13533740-thomas-jefferson"
+- author: Joshua Foer
+  title:  "Atlas Obscura: An Explorer's Guide to the World's Hidden Wonders"
+  url:    "http://www.goodreads.com/book/show/28110891-atlas-obscura"
+- author: Joshua Foer
+  title:  "Moonwalking with Einstein: The Art and Science of Remembering Everything"
+  url:    "http://www.goodreads.com/book/show/6346975-moonwalking-with-einstein"
+- author: Julian Jaynes
+  title:  "The Origin of Consciousness in the Breakdown of the Bicameral Mind"
+  url:    "http://www.goodreads.com/book/show/22478.The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind"
+- author: Kai Bird
+  title:  "American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer"
+  url:    "http://www.goodreads.com/book/show/80571.American_Prometheus"
+- author: Kai Bird
+  title:  "The Good Spy: The Life and Death of Robert Ames"
+  url:    "http://www.goodreads.com/book/show/18373198-the-good-spy"
+- author: Kameron Hurley
+  title:  "The Mirror Empire (Worldbreaker Saga, #1)"
+  url:    "http://www.goodreads.com/book/show/20646731-the-mirror-empire"
+- author: Kate Ascher
+  title:  "The Works: Anatomy of a City"
+  url:    "http://www.goodreads.com/book/show/116170.The_Works"
+- author: Kate Galbraith
+  title:  "The Great Texas Wind Rush: How George Bush, Ann Richards, and a Bunch of Tinkerers Helped the Oil and Gas State Win the Race to Wind Power"
+  url:    "http://www.goodreads.com/book/show/16233628-the-great-texas-wind-rush"
+- author: Katherine Addison
+  title:  "The Goblin Emperor"
+  url:    "http://www.goodreads.com/book/show/17910048-the-goblin-emperor"
+- author: Keith J. Devlin
+  title:  "The Millennium Problems"
+  url:    "http://www.goodreads.com/book/show/208743.The_Millennium_Problems"
+- author: Kevin D. Mitnick
+  title:  "Ghost in the Wires: My Adventures as the World's Most Wanted Hacker"
+  url:    "http://www.goodreads.com/book/show/10256723-ghost-in-the-wires"
+- author: Kevin Hearne
+  title:  "Heir to the Jedi"
+  url:    "http://www.goodreads.com/book/show/22059478-heir-to-the-jedi"
+- author: Laura Hillenbrand
+  title:  "Unbroken: A World War II Story of Survival, Resilience, and Redemption"
+  url:    "http://www.goodreads.com/book/show/8664353-unbroken"
+- author: Lawrence Lessig
+  title:  "Republic, Lost: How Money Corrupts Congress--and a Plan to Stop It"
+  url:    "http://www.goodreads.com/book/show/11814478-republic-lost"
+- author: Lee Billings
+  title:  "Five Billion Years of Solitude: The Search for Life Among the Stars"
+  url:    "http://www.goodreads.com/book/show/17707637-five-billion-years-of-solitude"
+- author: Len Buckwalter
+  title:  "Avionics Training: Systems, Installation, and Troubleshooting"
+  url:    "http://www.goodreads.com/book/show/1827531.Avionics_Training"
+- author: Lev Grossman
+  title:  "The Magicians (The Magicians #1)"
+  url:    "http://www.goodreads.com/book/show/6101718-the-magicians"
+- author: Liu Cixin
+  title:  "The Three-Body Problem"
+  url:    "http://www.goodreads.com/book/show/20518872-the-three-body-problem"
+- author: Madeline Ashby
+  title:  "Company Town"
+  url:    "http://www.goodreads.com/book/show/25659460-company-town"
+- author: Marcus du Sautoy
+  title:  "The Music of the Primes: Searching to Solve the Greatest Mystery in Mathematics"
+  url:    "http://www.goodreads.com/book/show/208916.The_Music_of_the_Primes"
+- author: Mario Livio
+  title:  "The Equation That Couldn't Be Solved: How Mathematical Genius Discovered the Language of Symmetry"
+  url:    "http://www.goodreads.com/book/show/233873.The_Equation_That_Couldn_t_Be_Solved"
+- author: Mario Livio
+  title:  "The Golden Ratio: The Story of Phi, the World's Most Astonishing Number"
+  url:    "http://www.goodreads.com/book/show/24081.The_Golden_Ratio"
+- author: Mark Miodownik
+  title:  "Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World"
+  url:    "http://www.goodreads.com/book/show/18222843-stuff-matters"
+- author: Mark Z. Danielewski
+  title:  "House of Leaves"
+  url:    "http://www.goodreads.com/book/show/24800.House_of_Leaves"
+- author: Max Barry
+  title:  "Lexicon"
+  url:    "http://www.goodreads.com/book/show/16158596-lexicon"
 - author: Max Brooks
   title:  "The Zombie Survival Guide: Complete Protection from the Living Dead"
   url:    "http://www.goodreads.com/book/show/535441.The_Zombie_Survival_Guide"
 - author: Max Brooks
   title:  "World War Z: An Oral History of the Zombie War"
   url:    "http://www.goodreads.com/book/show/8908.World_War_Z"
-- author: Dan Brown
-  title:  "Origin (Robert Langdon, #5)"
-  url:    "http://www.goodreads.com/book/show/32283133-origin"
-- author: Dan Brown
-  title:  "Digital Fortress"
-  url:    "http://www.goodreads.com/book/show/11125.Digital_Fortress"
-- author: Pierce Brown
-  title:  "Red Rising (Red Rising, #1)"
-  url:    "http://www.goodreads.com/book/show/15839976-red-rising"
-- author: John Browne
-  title:  "Seven Elements That Have Changed the World: An Adventure of Ingenuity and Discovery"
-  url:    "http://www.goodreads.com/book/show/17654741-seven-elements-that-have-changed-the-world"
-- author: Bill Bryson
-  title:  "A Short History of Nearly Everything"
-  url:    "http://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything"
-- author: Len Buckwalter
-  title:  "Avionics Training: Systems, Installation, and Troubleshooting"
-  url:    "http://www.goodreads.com/book/show/1827531.Avionics_Training"
-- author: Stephen Budiansky
-  title:  "Blackett's War: The Men Who Defeated the Nazi U-Boats and Brought Science to the Art of Warfare"
-  url:    "http://www.goodreads.com/book/show/15849559-blackett-s-war"
-- author: Edgar Rice Burroughs
-  title:  "A Princess of Mars (Barsoom, #1)"
-  url:    "http://www.goodreads.com/book/show/40395.A_Princess_of_Mars"
-- author: Albert Camus
-  title:  "The Stranger"
-  url:    "http://www.goodreads.com/book/show/49552.The_Stranger"
-- author: Orson Scott Card
-  title:  "Ender's Shadow (Ender's Shadow, #1)"
-  url:    "http://www.goodreads.com/book/show/9532.Ender_s_Shadow"
-- author: W. Bernard Carlson
-  title:  "Tesla: Inventor of the Electrical Age"
-  url:    "http://www.goodreads.com/book/show/17130499-tesla"
-- author: Ron Chernow
-  title:  "Alexander Hamilton"
-  url:    "http://www.goodreads.com/book/show/16130.Alexander_Hamilton"
-- author: Ted Chiang
-  title:  "Stories of Your Life and Others"
-  url:    "http://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others"
-- author: John D. Clark
-  title:  "Ignition!: An informal history of liquid rocket propellants"
-  url:    "http://www.goodreads.com/book/show/677285.Ignition_"
-- author: George S. Clason
-  title:  "The Richest Man in Babylon"
-  url:    "http://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon"
-- author: Eoin Colfer
-  title:  "Artemis Fowl (Artemis Fowl, #1)"
-  url:    "http://www.goodreads.com/book/show/249747.Artemis_Fowl"
-- author: James S.A. Corey
-  title:  "Leviathan Wakes (Expanse, #1)"
-  url:    "http://www.goodreads.com/book/show/8855321-leviathan-wakes"
+- author: Michael A. Hiltzik
+  title:  "Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age"
+  url:    "http://www.goodreads.com/book/show/1101290.Dealers_of_Lightning"
 - author: Michael Crichton
   title:  "Prey"
   url:    "http://www.goodreads.com/book/show/83763.Prey"
-- author: Daco
-  title:  "The Libra Affair"
-  url:    "http://www.goodreads.com/book/show/17433933-the-libra-affair"
-- author: Roald Dahl
-  title:  "Charlie and the Chocolate Factory"
-  url:    "http://www.goodreads.com/book/show/17238358-charlie-and-the-chocolate-factory"
-- author: Mark Z. Danielewski
-  title:  "House of Leaves"
-  url:    "http://www.goodreads.com/book/show/24800.House_of_Leaves"
-- author: James Dashner
-  title:  "The Maze Runner (Maze Runner, #1)"
-  url:    "http://www.goodreads.com/book/show/6186357-the-maze-runner"
-- author: Nelson DeMille
-  title:  "Plum Island (John Corey, #1)"
-  url:    "http://www.goodreads.com/book/show/33810.Plum_Island"
-- author: John Derbyshire
-  title:  "Unknown Quantity: A Real and Imaginary History of Algebra"
-  url:    "http://www.goodreads.com/book/show/551722.Unknown_Quantity"
-- author: Keith J. Devlin
-  title:  "The Millennium Problems"
-  url:    "http://www.goodreads.com/book/show/208743.The_Millennium_Problems"
-- author: Patrick deWitt
-  title:  "The Sisters Brothers"
-  url:    "http://www.goodreads.com/book/show/9850443-the-sisters-brothers"
-- author: Philip K. Dick
-  title:  "Do Androids Dream of Electric Sheep?"
-  url:    "http://www.goodreads.com/book/show/7082.Do_Androids_Dream_of_Electric_Sheep_"
-- author: Philip K. Dick
-  title:  "The Man in the High Castle"
-  url:    "http://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle"
-- author: Emma Donoghue
-  title:  "Room"
-  url:    "http://www.goodreads.com/book/show/7937843-room"
-- author: Fyodor Dostoyevsky
-  title:  "The Brothers Karamazov"
-  url:    "http://www.goodreads.com/book/show/4934.The_Brothers_Karamazov"
-- author: Toby Downton
-  title:  "Solarversia"
-  url:    "http://www.goodreads.com/book/show/24110299-solarversia"
-- author: Arthur Conan Doyle
-  title:  "The Complete Sherlock Holmes"
-  url:    "http://www.goodreads.com/book/show/16566323-the-complete-sherlock-holmes"
-- author: Alexander Drake
-  title:  "The Invention of Christianity"
-  url:    "http://www.goodreads.com/book/show/13643604-the-invention-of-christianity"
-- author: Marcus du Sautoy
-  title:  "The Music of the Primes: Searching to Solve the Greatest Mystery in Mathematics"
-  url:    "http://www.goodreads.com/book/show/208916.The_Music_of_the_Primes"
-- author: George Dyson
-  title:  "Turing's Cathedral: The Origins of the Digital Universe"
-  url:    "http://www.goodreads.com/book/show/12625589-turing-s-cathedral"
-- author: Umberto Eco
-  title:  "The Name of the Rose"
-  url:    "http://www.goodreads.com/book/show/119073.The_Name_of_the_Rose"
-- author: Umberto Eco
-  title:  "Foucault's Pendulum"
-  url:    "http://www.goodreads.com/book/show/17841.Foucault_s_Pendulum"
-- author: Cary Elwes
-  title:  "As You Wish: Inconceivable Tales from the Making of The Princess Bride"
-  url:    "http://www.goodreads.com/book/show/21412202-as-you-wish"
-- author: Hans Magnus Enzensberger
-  title:  "The Number Devil: A Mathematical Adventure"
-  url:    "http://www.goodreads.com/book/show/91358.The_Number_Devil"
-- author: Steven Erikson
-  title:  "Gardens of the Moon (The Malazan Book of the Fallen, #1)"
-  url:    "http://www.goodreads.com/book/show/55399.Gardens_of_the_Moon"
-- author: Jay M. Feinman
-  title:  "Law 101"
-  url:    "http://www.goodreads.com/book/show/7894228-law-101"
-- author: Pedro G. Ferreira
-  title:  "The Perfect Theory: A Century of Geniuses and the Battle over General Relativity"
-  url:    "http://www.goodreads.com/book/show/17165889-the-perfect-theory"
-- author: Ed Finn
-  title:  "Hieroglyph: Stories and Visions for a Better Future"
-  url:    "http://www.goodreads.com/book/show/20306794-hieroglyph"
-- author: Vince Flynn
-  title:  "American Assassin (Mitch Rapp, #1)"
-  url:    "http://www.goodreads.com/book/show/7959473-american-assassin"
-- author: Joshua Foer
-  title:  "Moonwalking with Einstein: The Art and Science of Remembering Everything"
-  url:    "http://www.goodreads.com/book/show/6346975-moonwalking-with-einstein"
-- author: Joshua Foer
-  title:  "Atlas Obscura: An Explorer's Guide to the World's Hidden Wonders"
-  url:    "http://www.goodreads.com/book/show/28110891-atlas-obscura"
-- author: E.M. Forster
-  title:  "The Machine Stops"
-  url:    "http://www.goodreads.com/book/show/4711854-the-machine-stops"
-- author: Alexander Freed
-  title:  "Battlefront: Twilight Company"
-  url:    "http://www.goodreads.com/book/show/25455901-battlefront"
-- author: Cornelia Funke
-  title:  "Inkheart (Inkworld, #1)"
-  url:    "http://www.goodreads.com/book/show/28194.Inkheart"
-- author: Neil Gaiman
-  title:  "American Gods"
-  url:    "http://www.goodreads.com/book/show/4407.American_Gods"
-- author: Kate Galbraith
-  title:  "The Great Texas Wind Rush: How George Bush, Ann Richards, and a Bunch of Tinkerers Helped the Oil and Gas State Win the Race to Wind Power"
-  url:    "http://www.goodreads.com/book/show/16233628-the-great-texas-wind-rush"
-- author: Jon Gertner
-  title:  "The Idea Factory: Bell Labs and the Great Age of American Innovation"
-  url:    "http://www.goodreads.com/book/show/11797471-the-idea-factory"
+- author: Michael Lewis
+  title:  "Moneyball: The Art of Winning an Unfair Game"
+  url:    "http://www.goodreads.com/book/show/1301.Moneyball"
+- author: Michael Lewis
+  title:  "The Big Short: Inside the Doomsday Machine"
+  url:    "http://www.goodreads.com/book/show/6463967-the-big-short"
 - author: Nancy Gibbs
   title:  "The Presidents Club: Inside the World's Most Exclusive Fraternity"
   url:    "http://www.goodreads.com/book/show/12410640-the-presidents-club"
-- author: William Gibson
-  title:  "The Peripheral"
-  url:    "http://www.goodreads.com/book/show/20821159-the-peripheral"
-- author: William Gibson
-  title:  "Neuromancer (Sprawl, #1)"
-  url:    "http://www.goodreads.com/book/show/22328.Neuromancer"
+- author: Naomi Klein
+  title:  "This Changes Everything: Capitalism vs. The Climate"
+  url:    "http://www.goodreads.com/book/show/21913812-this-changes-everything"
+- author: Nathanael Johnson
+  title:  "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness"
+  url:    "http://www.goodreads.com/book/show/25664449-unseen-city"
+- author: Neil Gaiman
+  title:  "American Gods (American Gods, #1)"
+  url:    "http://www.goodreads.com/book/show/4407.American_Gods"
+- author: Nelson DeMille
+  title:  "Plum Island (John Corey, #1)"
+  url:    "http://www.goodreads.com/book/show/33810.Plum_Island"
+- author: Nick Bostrom
+  title:  "Superintelligence: Paths, Dangers, Strategies"
+  url:    "http://www.goodreads.com/book/show/20527133-superintelligence"
+- author: Nick Harkaway
+  title:  "Angelmaker"
+  url:    "http://www.goodreads.com/book/show/12266560-angelmaker"
+- author: Nick Harkaway
+  title:  "Tigerman"
+  url:    "http://www.goodreads.com/book/show/19322249-tigerman"
+- author: Nick Hornby
+  title:  "High Fidelity"
+  url:    "http://www.goodreads.com/book/show/285092.High_Fidelity"
+- author: Orson Scott Card
+  title:  "Ender's Shadow (Ender's Shadow, #1)"
+  url:    "http://www.goodreads.com/book/show/9532.Ender_s_Shadow"
+- author: Paolo Bacigalupi
+  title:  "The Windup Girl"
+  url:    "http://www.goodreads.com/book/show/6597651-the-windup-girl"
+- author: Patrick deWitt
+  title:  "The Sisters Brothers"
+  url:    "http://www.goodreads.com/book/show/9850443-the-sisters-brothers"
+- author: Paul Auster
+  title:  "City of Glass (The New York Trilogy, #1)"
+  url:    "http://www.goodreads.com/book/show/432.City_of_Glass"
 - author: Paul Gillebaard
   title:  "Moon Hoax"
   url:    "http://www.goodreads.com/book/show/15826361-moon-hoax"
-- author: James Gleick
-  title:  "Isaac Newton"
-  url:    "http://www.goodreads.com/book/show/17098.Isaac_Newton"
-- author: Christie Golden
-  title:  "Dark Disciple"
-  url:    "http://www.goodreads.com/book/show/23277298-dark-disciple"
-- author: William Golding
-  title:  "Lord of the Flies"
-  url:    "http://www.goodreads.com/book/show/7624.Lord_of_the_Flies"
-- author: William Goldman
-  title:  "The Princess Bride"
-  url:    "http://www.goodreads.com/book/show/21787.The_Princess_Bride"
-- author: J.E. Gordon
-  title:  "Structures: Or Why Things Don't Fall Down"
-  url:    "http://www.goodreads.com/book/show/245344.Structures"
-- author: Claudia Gray
-  title:  "Bloodline"
-  url:    "http://www.goodreads.com/book/show/27209239-bloodline"
-- author: Peter Green
-  title:  "Alexander of Macedon, 356-323 B.C."
-  url:    "http://www.goodreads.com/book/show/232124.Alexander_of_Macedon_356_323_B_C_"
-- author: Glenn Greenwald
-  title:  "With Liberty and Justice for Some: How the Law is Used to Destroy Equality and Protect the Powerful"
-  url:    "http://www.goodreads.com/book/show/9750406-with-liberty-and-justice-for-some"
-- author: Aubrey de Grey
-  title:  "Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime"
-  url:    "http://www.goodreads.com/book/show/519781.Ending_Aging"
-- author: Lev Grossman
-  title:  "The Magicians (The Magicians #1)"
-  url:    "http://www.goodreads.com/book/show/6101718-the-magicians"
-- author: Chris Hadfield
-  title:  "An Astronaut's Guide to Life on Earth"
-  url:    "http://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth"
-- author: Joe Haldeman
-  title:  "The Forever War (The Forever War, #1)"
-  url:    "http://www.goodreads.com/book/show/21611.The_Forever_War"
-- author: Joe Haldeman
-  title:  "The Accidental Time Machine"
-  url:    "http://www.goodreads.com/book/show/21608.The_Accidental_Time_Machine"
+- author: Paul Hoffman
+  title:  "The Man Who Loved Only Numbers: The Story of  Paul Erdős and the Search for Mathematical Truth"
+  url:    "http://www.goodreads.com/book/show/714583.The_Man_Who_Loved_Only_Numbers"
+- author: Paul Kennedy
+  title:  "Engineers of Victory: The Making of the War Machine That Defeated the Nazis"
+  url:    "http://www.goodreads.com/book/show/13132847-engineers-of-victory"
+- author: Paul S. Kemp
+  title:  "Lords of the Sith"
+  url:    "http://www.goodreads.com/book/show/22012290-lords-of-the-sith"
+- author: Paula Hawkins
+  title:  "The Girl on the Train"
+  url:    "http://www.goodreads.com/book/show/22557272-the-girl-on-the-train"
+- author: Pedro G. Ferreira
+  title:  "The Perfect Theory: A Century of Geniuses and the Battle over General Relativity"
+  url:    "http://www.goodreads.com/book/show/17165889-the-perfect-theory"
 - author: Peter F. Hamilton
   title:  "Misspent Youth"
   url:    "http://www.goodreads.com/book/show/45248.Misspent_Youth"
 - author: Peter F. Hamilton
   title:  "Pandora's Star"
   url:    "http://www.goodreads.com/book/show/45252.Pandora_s_Star"
-- author: Steve Hamilton
-  title:  "The Lock Artist"
-  url:    "http://www.goodreads.com/book/show/6811221-the-lock-artist"
-- author: Dashiell Hammett
-  title:  "The Thin Man"
-  url:    "http://www.goodreads.com/book/show/80616.The_Thin_Man"
-- author: Zack Hample
-  title:  "Watching Baseball Smarter: A Professional Fan's Guide for Beginners, Semi-experts, and Deeply Serious Geeks"
-  url:    "http://www.goodreads.com/book/show/562640.Watching_Baseball_Smarter"
-- author: David Heinemeier Hansson
-  title:  "Remote: Office Not Required"
-  url:    "http://www.goodreads.com/book/show/17316682-remote"
-- author: Chad Harbach
-  title:  "The Art of Fielding"
-  url:    "http://www.goodreads.com/book/show/10996342-the-art-of-fielding"
-- author: Nick Harkaway
-  title:  "Tigerman"
-  url:    "http://www.goodreads.com/book/show/19322249-tigerman"
-- author: Nick Harkaway
-  title:  "Angelmaker"
-  url:    "http://www.goodreads.com/book/show/12266560-angelmaker"
+- author: Peter Green
+  title:  "Alexander of Macedon, 356-323 B.C."
+  url:    "http://www.goodreads.com/book/show/232124.Alexander_of_Macedon_356_323_B_C_"
+- author: Petr Beckmann
+  title:  "A History of π"
+  url:    "http://www.goodreads.com/book/show/586616.A_History_of_"
+- author: Philip K. Dick
+  title:  "Do Androids Dream of Electric Sheep?"
+  url:    "http://www.goodreads.com/book/show/7082.Do_Androids_Dream_of_Electric_Sheep_"
+- author: Philip K. Dick
+  title:  "The Man in the High Castle"
+  url:    "http://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle"
+- author: Pierce Brown
+  title:  "Red Rising (Red Rising, #1)"
+  url:    "http://www.goodreads.com/book/show/15839976-red-rising"
+- author: Pittacus Lore
+  title:  "I Am Number Four (Lorien Legacies, #1)"
+  url:    "http://www.goodreads.com/book/show/7747374-i-am-number-four"
+- author: Randall Munroe
+  title:  "Thing Explainer: Complicated Stuff in Simple Words"
+  url:    "http://www.goodreads.com/book/show/25329850-thing-explainer"
+- author: Ray Bradbury
+  title:  "Fahrenheit 451"
+  url:    "http://www.goodreads.com/book/show/17470674-fahrenheit-451"
+- author: Ray Jayawardhana
+  title:  "Neutrino Hunters: The Thrilling Chase for a Ghostly Particle to Unlock the Secrets of the Universe"
+  url:    "http://www.goodreads.com/book/show/17332273-neutrino-hunters"
+- author: Richard Matheson
+  title:  "I Am Legend"
+  url:    "http://www.goodreads.com/book/show/14064.I_Am_Legend"
+- author: Roald Dahl
+  title:  "Charlie and the Chocolate Factory"
+  url:    "http://www.goodreads.com/book/show/17238358-charlie-and-the-chocolate-factory"
 - author: Robert   Harris
   title:  "Fatherland"
   url:    "http://www.goodreads.com/book/show/56842.Fatherland"
 - author: Robert   Harris
   title:  "Pompeii"
   url:    "http://www.goodreads.com/book/show/880.Pompeii"
-- author: Stephen Hawking
-  title:  "The Universe in a Nutshell"
-  url:    "http://www.goodreads.com/book/show/2095.The_Universe_in_a_Nutshell"
-- author: Paula Hawkins
-  title:  "The Girl on the Train"
-  url:    "http://www.goodreads.com/book/show/22557272-the-girl-on-the-train"
-- author: Terry Hayes
-  title:  "I Am Pilgrim (Pilgrim, #1)"
-  url:    "http://www.goodreads.com/book/show/18144124-i-am-pilgrim"
-- author: Kevin Hearne
-  title:  "Heir to the Jedi"
-  url:    "http://www.goodreads.com/book/show/17617670-heir-to-the-jedi"
 - author: Robert A. Heinlein
   title:  "The Moon is a Harsh Mistress"
   url:    "http://www.goodreads.com/book/show/16690.The_Moon_is_a_Harsh_Mistress"
-- author: Frank Herbert
-  title:  "Dune (Dune Chronicles #1)"
-  url:    "http://www.goodreads.com/book/show/234225.Dune"
-- author: John Hersey
-  title:  "Hiroshima"
-  url:    "http://www.goodreads.com/book/show/27323.Hiroshima"
-- author: Henry   Hill
-  title:  "The Lufthansa Heist"
-  url:    "http://www.goodreads.com/book/show/22967544-the-lufthansa-heist"
-- author: Laura Hillenbrand
-  title:  "Unbroken: A World War II Story of Survival, Resilience, and Redemption"
-  url:    "http://www.goodreads.com/book/show/8664353-unbroken"
-- author: Michael A. Hiltzik
-  title:  "Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age"
-  url:    "http://www.goodreads.com/book/show/1101290.Dealers_of_Lightning"
-- author: Andrew Hodges
-  title:  "Alan Turing: The Enigma"
-  url:    "http://www.goodreads.com/book/show/150731.Alan_Turing"
-- author: David E. Hoffman
-  title:  "The Billion Dollar Spy: A True Story of Cold War Espionage and Betrayal"
-  url:    "http://www.goodreads.com/book/show/23463183-the-billion-dollar-spy"
-- author: Paul Hoffman
-  title:  "The Man Who Loved Only Numbers: The Story of  Paul Erdős and the Search for Mathematical Truth"
-  url:    "http://www.goodreads.com/book/show/714583.The_Man_Who_Loved_Only_Numbers"
-- author: Nick Hornby
-  title:  "High Fidelity"
-  url:    "http://www.goodreads.com/book/show/285092.High_Fidelity"
-- author: Hugh Howey
-  title:  "The Wool Trilogy (Silo, #1-3)"
-  url:    "http://www.goodreads.com/book/show/20745447-the-wool-trilogy"
-- author: Kameron Hurley
-  title:  "The Mirror Empire (Worldbreaker Saga, #1)"
-  url:    "http://www.goodreads.com/book/show/20646731-the-mirror-empire"
-- author: Aldous Huxley
-  title:  "Brave New World"
-  url:    "http://www.goodreads.com/book/show/5129.Brave_New_World"
-- author: Chris Impey
-  title:  "Beyond: Our Future in Space"
-  url:    "http://www.goodreads.com/book/show/22253730-beyond"
-- author: Walter Isaacson
-  title:  "Einstein: His Life and Universe"
-  url:    "http://www.goodreads.com/book/show/10884.Einstein"
-- author: Walter Isaacson
-  title:  "Steve Jobs"
-  url:    "http://www.goodreads.com/book/show/11084145-steve-jobs"
-- author: Walter Isaacson
-  title:  "Benjamin Franklin: An American Life"
-  url:    "http://www.goodreads.com/book/show/10883.Benjamin_Franklin"
-- author: Annie   Jacobsen
-  title:  "The Pentagon's Brain: An Uncensored History of DARPA, America's Top-Secret Military Research Agency"
-  url:    "http://www.goodreads.com/book/show/24396871-the-pentagon-s-brain"
-- author: Ray Jayawardhana
-  title:  "Neutrino Hunters: The Thrilling Chase for a Ghostly Particle to Unlock the Secrets of the Universe"
-  url:    "http://www.goodreads.com/book/show/17332273-neutrino-hunters"
-- author: Julian Jaynes
-  title:  "The Origin of Consciousness in the Breakdown of the Bicameral Mind"
-  url:    "http://www.goodreads.com/book/show/22478.The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind"
-- author: Gary Jennings
-  title:  "Aztec (Aztec, #1)"
-  url:    "http://www.goodreads.com/book/show/550454.Aztec"
-- author: Nathanael Johnson
-  title:  "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness"
-  url:    "http://www.goodreads.com/book/show/25664449-unseen-city"
-- author: Steven Johnson
-  title:  "Where Good Ideas Come From: The Natural History of Innovation"
-  url:    "http://www.goodreads.com/book/show/8034188-where-good-ideas-come-from"
-- author: Steven Johnson
-  title:  "The Ghost Map: The Story of London's Most Terrifying Epidemic - and How It Changed Science, Cities, and the Modern World"
-  url:    "http://www.goodreads.com/book/show/36086.The_Ghost_Map"
-- author: Steven Johnson
-  title:  "How We Got to Now: Six Innovations That Made the Modern World"
-  url:    "http://www.goodreads.com/book/show/20893477-how-we-got-to-now"
-- author: E.K. Johnston
-  title:  "Ahsoka"
-  url:    "http://www.goodreads.com/book/show/29749107-ahsoka"
-- author: David Kahn
-  title:  "The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet"
-  url:    "http://www.goodreads.com/book/show/29608.The_Codebreakers"
-- author: Daniel Kahneman
-  title:  "Thinking, Fast and Slow"
-  url:    "http://www.goodreads.com/book/show/11468377-thinking-fast-and-slow"
-- author: Paul S. Kemp
-  title:  "Lords of the Sith"
-  url:    "http://www.goodreads.com/book/show/22012290-lords-of-the-sith"
-- author: Paul Kennedy
-  title:  "Engineers of Victory: The Making of the War Machine That Defeated the Nazis"
-  url:    "http://www.goodreads.com/book/show/13132847-engineers-of-victory"
-- author: Brian Kilmeade
-  title:  "George Washington's Secret Six: The Spy Ring That Saved the American Revolution"
-  url:    "http://www.goodreads.com/book/show/17707603-george-washington-s-secret-six"
+- author: Robert Jackson Bennett
+  title:  "City of Stairs (The Divine Cities, #1)"
+  url:    "http://www.goodreads.com/book/show/20174424-city-of-stairs"
+- author: Ron Chernow
+  title:  "Alexander Hamilton"
+  url:    "http://www.goodreads.com/book/show/16130.Alexander_Hamilton"
+- author: Ryan Boudinot
+  title:  "Blueprints of the Afterlife"
+  url:    "http://www.goodreads.com/book/show/8856041-blueprints-of-the-afterlife"
+- author: Ryan Britt
+  title:  "Luke Skywalker Can't Read: And Other Geeky Truths"
+  url:    "http://www.goodreads.com/book/show/24611638-luke-skywalker-can-t-read"
+- author: Sandi Metz
+  title:  "Practical Object Oriented Design in Ruby"
+  url:    "http://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby"
+- author: Scott  Meyer
+  title:  "Off to Be the Wizard (Magic 2.0, #1)"
+  url:    "http://www.goodreads.com/book/show/18616975-off-to-be-the-wizard"
+- author: Stephen Budiansky
+  title:  "Blackett's War: The Men Who Defeated the Nazi U-Boats and Brought Science to the Art of Warfare"
+  url:    "http://www.goodreads.com/book/show/15849559-blackett-s-war"
+- author: Stephen Hawking
+  title:  "The Universe in a Nutshell"
+  url:    "http://www.goodreads.com/book/show/2095.The_Universe_in_a_Nutshell"
 - author: Stephen King
   title:  "Mr. Mercedes (Bill Hodges Trilogy, #1)"
   url:    "http://www.goodreads.com/book/show/18775247-mr-mercedes"
@@ -457,342 +529,336 @@
 - author: Stephen King
   title:  "Under the Dome"
   url:    "http://www.goodreads.com/book/show/6320534-under-the-dome"
-- author: Naomi Klein
-  title:  "This Changes Everything: Capitalism vs. The Climate"
-  url:    "http://www.goodreads.com/book/show/21913812-this-changes-everything"
-- author: Elizabeth Kolbert
-  title:  "The Sixth Extinction: An Unnatural History"
-  url:    "http://www.goodreads.com/book/show/17910054-the-sixth-extinction"
-- author: Erik Larson
-  title:  "Dead Wake: The Last Crossing of the Lusitania"
-  url:    "http://www.goodreads.com/book/show/22551730-dead-wake"
-- author: Erik Larson
-  title:  "Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History"
-  url:    "http://www.goodreads.com/book/show/239186.Isaac_s_Storm"
-- author: Erik Larson
-  title:  "In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin"
-  url:    "http://www.goodreads.com/book/show/9938498-in-the-garden-of-beasts"
-- author: Ann Leckie
-  title:  "Ancillary Justice (Imperial Radch, #1)"
-  url:    "http://www.goodreads.com/book/show/17333324-ancillary-justice"
-- author: Lawrence Lessig
-  title:  "Republic, Lost: How Money Corrupts Congress--and a Plan to Stop It"
-  url:    "http://www.goodreads.com/book/show/11814478-republic-lost"
-- author: Michael Lewis
-  title:  "The Big Short: Inside the Doomsday Machine"
-  url:    "http://www.goodreads.com/book/show/6463967-the-big-short"
-- author: Michael Lewis
-  title:  "Moneyball: The Art of Winning an Unfair Game"
-  url:    "http://www.goodreads.com/book/show/1301.Moneyball"
-- author: Ben Lindbergh
-  title:  "The Only Rule Is It Has to Work: Our Wild Experiment Building a New Kind of Baseball Team"
-  url:    "http://www.goodreads.com/book/show/26792284-the-only-rule-is-it-has-to-work"
-- author: Liu Cixin
-  title:  "The Three-Body Problem"
-  url:    "http://www.goodreads.com/book/show/20518872-the-three-body-problem"
-- author: Mario Livio
-  title:  "The Golden Ratio: The Story of Phi, the World's Most Astonishing Number"
-  url:    "http://www.goodreads.com/book/show/24081.The_Golden_Ratio"
-- author: Mario Livio
-  title:  "The Equation That Couldn't Be Solved: How Mathematical Genius Discovered the Language of Symmetry"
-  url:    "http://www.goodreads.com/book/show/233873.The_Equation_That_Couldn_t_Be_Solved"
-- author: Pittacus Lore
-  title:  "I Am Number Four (Lorien Legacies, #1)"
-  url:    "http://www.goodreads.com/book/show/7747374-i-am-number-four"
-- author: James Luceno
-  title:  "Tarkin"
-  url:    "http://www.goodreads.com/book/show/22012250-tarkin"
-- author: John MacCormick
-  title:  "Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today's Computers"
-  url:    "http://www.goodreads.com/book/show/12413727-nine-algorithms-that-changed-the-future"
-- author: Ben Macintyre
-  title:  "Double Cross: The True Story of the D-Day Spies"
-  url:    "http://www.goodreads.com/book/show/13154628-double-cross"
-- author: Ben Macintyre
-  title:  "Agent Zigzag: A True Story of Nazi Espionage, Love, and Betrayal"
-  url:    "http://www.goodreads.com/book/show/655627.Agent_Zigzag"
-- author: Drew Magary
-  title:  "The Postmortal"
-  url:    "http://www.goodreads.com/book/show/10673576-the-postmortal"
-- author: Vasily Mahanenko
-  title:  "Survival Quest (The Way of the Shaman, #1)"
-  url:    "http://www.goodreads.com/book/show/25342750-survival-quest"
-- author: Geoff Manaugh
-  title:  "A Burglar's Guide to the City"
-  url:    "http://www.goodreads.com/book/show/22237142-a-burglar-s-guide-to-the-city"
-- author: Richard Matheson
-  title:  "I Am Legend"
-  url:    "http://www.goodreads.com/book/show/14064.I_Am_Legend"
-- author: Barnes W. McCormick
-  title:  "Aerodynamics, Aeronautics, and Flight Mechanics"
-  url:    "http://www.goodreads.com/book/show/6365681-aerodynamics-aeronautics-and-flight-mechanics"
-- author: David McCullough
-  title:  "John Adams"
-  url:    "http://www.goodreads.com/book/show/2203.John_Adams"
-- author: David McCullough
-  title:  "The Wright Brothers"
-  url:    "http://www.goodreads.com/book/show/22609391-the-wright-brothers"
-- author: Val McDermid
-  title:  "Forensics: What Bugs, Burns, Prints, DNA and More Tell Us About Crime"
-  url:    "http://www.goodreads.com/book/show/23214337-forensics"
-- author: Jay McGavren
-  title:  "Head First Ruby"
-  url:    "http://www.goodreads.com/book/show/23466394-head-first-ruby"
-- author: Jon Meacham
-  title:  "American Lion: Andrew Jackson in the White House"
-  url:    "http://www.goodreads.com/book/show/3147367-american-lion"
-- author: Jon Meacham
-  title:  "Thomas Jefferson: The Art of Power"
-  url:    "http://www.goodreads.com/book/show/13533740-thomas-jefferson"
-- author: Sandi Metz
-  title:  "Practical Object Oriented Design in Ruby"
-  url:    "http://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby"
-- author: Scott  Meyer
-  title:  "Off to Be the Wizard (Magic 2.0, #1)"
-  url:    "http://www.goodreads.com/book/show/18616975-off-to-be-the-wizard"
-- author: Ben Mezrich
-  title:  "Sex on the Moon: The Amazing Story Behind the Most Audacious Heist in History"
-  url:    "http://www.goodreads.com/book/show/10021420-sex-on-the-moon"
-- author: Candice Millard
-  title:  "Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President"
-  url:    "http://www.goodreads.com/book/show/10335318-destiny-of-the-republic"
-- author: John Jackson Miller
-  title:  "A New Dawn"
-  url:    "http://www.goodreads.com/book/show/20262705-a-new-dawn"
-- author: J.B. Millhollin
-  title:  "Brakus (Brakus #1)"
-  url:    "http://www.goodreads.com/book/show/20982528-brakus"
-- author: Mark Miodownik
-  title:  "Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World"
-  url:    "http://www.goodreads.com/book/show/18222843-stuff-matters"
-- author: David Mitchell
-  title:  "The Bone Clocks"
-  url:    "http://www.goodreads.com/book/show/20819685-the-bone-clocks"
-- author: Kevin D. Mitnick
-  title:  "Ghost in the Wires: My Adventures as the World's Most Wanted Hacker"
-  url:    "http://www.goodreads.com/book/show/10256723-ghost-in-the-wires"
-- author: China Miéville
-  title:  "The City & the City"
-  url:    "http://www.goodreads.com/book/show/4703581-the-city-the-city"
-- author: China Miéville
-  title:  "Perdido Street Station (Bas-Lag, #1)"
-  url:    "http://www.goodreads.com/book/show/68494.Perdido_Street_Station"
-- author: Christopher Moore
-  title:  "Lamb: The Gospel According to Biff, Christ's Childhood Pal"
-  url:    "http://www.goodreads.com/book/show/28881.Lamb"
+- author: Steve Hamilton
+  title:  "The Lock Artist"
+  url:    "http://www.goodreads.com/book/show/6811221-the-lock-artist"
+- author: Steven Erikson
+  title:  "Gardens of the Moon (The Malazan Book of the Fallen, #1)"
+  url:    "http://www.goodreads.com/book/show/55399.Gardens_of_the_Moon"
+- author: Steven Johnson
+  title:  "How We Got to Now: Six Innovations That Made the Modern World"
+  url:    "http://www.goodreads.com/book/show/20893477-how-we-got-to-now"
+- author: Steven Johnson
+  title:  "The Ghost Map: The Story of London's Most Terrifying Epidemic - and How It Changed Science, Cities, and the Modern World"
+  url:    "http://www.goodreads.com/book/show/36086.The_Ghost_Map"
+- author: Steven Johnson
+  title:  "Where Good Ideas Come From: The Natural History of Innovation"
+  url:    "http://www.goodreads.com/book/show/8034188-where-good-ideas-come-from"
+- author: Ted Chiang
+  title:  "Stories of Your Life and Others"
+  url:    "http://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others"
+- author: Terry Hayes
+  title:  "I Am Pilgrim (Pilgrim, #1)"
+  url:    "http://www.goodreads.com/book/show/18144124-i-am-pilgrim"
 - author: Thomas Mullen
   title:  "The Revisionists"
   url:    "http://www.goodreads.com/book/show/10789142-the-revisionists"
-- author: Randall Munroe
-  title:  "Thing Explainer: Complicated Stuff in Simple Words"
-  url:    "http://www.goodreads.com/book/show/25329850-thing-explainer"
-- author: Randall Munroe
-  title:  "What If?: Serious Scientific Answers to Absurd Hypothetical Questions"
-  url:    "http://www.goodreads.com/book/show/21413662-what-if"
-- author: George Musser
-  title:  "Spooky Action at a Distance: The Phenomenon That Reimagines Space and Time—and What It Means for Black Holes, the Big Bang, and Theories of Everything"
-  url:    "http://www.goodreads.com/book/show/23848266-spooky-action-at-a-distance"
-- author: Ramez Naam
-  title:  "Nexus (Nexus, #1)"
-  url:    "http://www.goodreads.com/book/show/13642710-nexus"
-- author: Vladimir Nabokov
-  title:  "The Eye"
-  url:    "http://www.goodreads.com/book/show/46326.The_Eye"
-- author: Paul J. Nahin
-  title:  "An Imaginary Tale: The Story of the Square Root of Minus One"
-  url:    "http://www.goodreads.com/book/show/357209.An_Imaginary_Tale"
-- author: Arthur Nersesian
-  title:  "The Fuck-Up"
-  url:    "http://www.goodreads.com/book/show/25148.The_Fuck_Up"
-- author: Jo Nesbø
-  title:  "The Son"
-  url:    "http://www.goodreads.com/book/show/19101283-the-son"
-- author: Larry Niven
-  title:  "Ringworld (Ringworld #1)"
-  url:    "http://www.goodreads.com/book/show/61179.Ringworld"
-- author: Dan  Norris
-  title:  "The 7 Day Startup: You Don't Learn Until You Launch"
-  url:    "http://www.goodreads.com/book/show/23290805-the-7-day-startup"
-- author: Bill  Nye
-  title:  "Undeniable: Evolution and the Science of Creation"
-  url:    "http://www.goodreads.com/book/show/22609791-undeniable"
-- author: Cathy O'Neil
-  title:  "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy"
-  url:    "http://www.goodreads.com/book/show/28186015-weapons-of-math-destruction"
-- author: Gerard K. O'Neill
-  title:  "The High Frontier: Human Colonies in Space (Apogee Books Space)"
-  url:    "http://www.goodreads.com/book/show/405001.The_High_Frontier"
-- author: Donal O'Shea
-  title:  "The Poincaré Conjecture: In Search of the Shape of the Universe"
-  url:    "http://www.goodreads.com/book/show/319016.The_Poincar_Conjecture"
-- author: Naomi Oreskes
-  title:  "Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming"
-  url:    "http://www.goodreads.com/book/show/7799004-merchants-of-doubt"
-- author: George Orwell
-  title:  "Animal Farm"
-  url:    "http://www.goodreads.com/book/show/7613.Animal_Farm"
-- author: George Orwell
-  title:  "1984"
-  url:    "http://www.goodreads.com/book/show/5470.1984"
-- author: Chad Orzel
-  title:  "Eureka: Discovering Your Inner Scientist"
-  url:    "http://www.goodreads.com/book/show/21413845-eureka"
-- author: Georges Perec
-  title:  "Life: A User's Manual"
-  url:    "http://www.goodreads.com/book/show/28293.Life"
-- author: Charles Petzold
-  title:  "Code: The Hidden Language of Computer Hardware and Software"
-  url:    "http://www.goodreads.com/book/show/44882.Code"
-- author: Thomas Piketty
-  title:  "Capital in the Twenty-First Century"
-  url:    "http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century"
-- author: Donald Ray Pollock
-  title:  "The Devil All the Time"
-  url:    "http://www.goodreads.com/book/show/10108463-the-devil-all-the-time"
-- author: Terry Pratchett
-  title:  "The Color of Magic (Discworld, #1; Rincewind #1)"
-  url:    "http://www.goodreads.com/book/show/34497.The_Color_of_Magic"
-- author: Douglas Preston
-  title:  "The Monster of Florence"
-  url:    "http://www.goodreads.com/book/show/2198274.The_Monster_of_Florence"
-- author: Richard   Preston
-  title:  "The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus"
-  url:    "http://www.goodreads.com/book/show/16213.The_Hot_Zone"
-- author: Philip Pullman
-  title:  "The Golden Compass (His Dark Materials, #1)"
-  url:    "http://www.goodreads.com/book/show/119322.The_Golden_Compass"
-- author: Thomas Pynchon
-  title:  "Gravity's Rainbow"
-  url:    "http://www.goodreads.com/book/show/415.Gravity_s_Rainbow"
-- author: Stephen J. Pyne
-  title:  "Voyager: Seeking Newer Worlds in the Third Great Age of Discovery"
-  url:    "http://www.goodreads.com/book/show/7739373-voyager"
-- author: Hannu Rajaniemi
-  title:  "The Quantum Thief (Jean le Flambeur, #1)"
-  url:    "http://www.goodreads.com/book/show/7562764-the-quantum-thief"
-- author: Rob  Reid
-  title:  "Year Zero"
-  url:    "http://www.goodreads.com/book/show/12953520-year-zero"
-- author: Mary Roach
-  title:  "Packing for Mars: The Curious Science of Life in the Void"
-  url:    "http://www.goodreads.com/book/show/7237456-packing-for-mars"
-- author: Mary Roach
-  title:  "Grunt: The Curious Science of Humans at War"
-  url:    "http://www.goodreads.com/book/show/26530320-grunt"
-- author: David      Robertson
-  title:  "Brick by Brick: How LEGO Rewrote the Rules of Innovation and Conquered the Global Toy Industry"
-  url:    "http://www.goodreads.com/book/show/16054798-brick-by-brick"
-- author: Kim Stanley Robinson
-  title:  "Red Mars (Mars Trilogy, #1)"
-  url:    "http://www.goodreads.com/book/show/77507.Red_Mars"
+- author: Toby Downton
+  title:  "Solarversia"
+  url:    "http://www.goodreads.com/book/show/24110299-solarversia"
+- author: Umberto Eco
+  title:  "Foucault's Pendulum"
+  url:    "http://www.goodreads.com/book/show/17841.Foucault_s_Pendulum"
+- author: Umberto Eco
+  title:  "The Name of the Rose"
+  url:    "http://www.goodreads.com/book/show/119073.The_Name_of_the_Rose"
+- author: Val McDermid
+  title:  "Forensics: What Bugs, Burns, Prints, DNA and More Tell Us About Crime"
+  url:    "http://www.goodreads.com/book/show/23214337-forensics"
+- author: Vasily Mahanenko
+  title:  "Survival Quest (The Way of the Shaman, #1)"
+  url:    "http://www.goodreads.com/book/show/25342750-survival-quest"
+- author: Vince Flynn
+  title:  "American Assassin (Mitch Rapp, #1)"
+  url:    "http://www.goodreads.com/book/show/7959473-american-assassin"
+- author: W. Bernard Carlson
+  title:  "Tesla: Inventor of the Electrical Age"
+  url:    "http://www.goodreads.com/book/show/17130499-tesla"
+- author: Walter Isaacson
+  title:  "Benjamin Franklin: An American Life"
+  url:    "http://www.goodreads.com/book/show/10883.Benjamin_Franklin"
+- author: Walter Isaacson
+  title:  "Einstein: His Life and Universe"
+  url:    "http://www.goodreads.com/book/show/10884.Einstein"
+- author: Walter Isaacson
+  title:  "Steve Jobs"
+  url:    "http://www.goodreads.com/book/show/11084145-steve-jobs"
+- author: William Gibson
+  title:  "Neuromancer (Sprawl, #1)"
+  url:    "http://www.goodreads.com/book/show/22328.Neuromancer"
+- author: William Gibson
+  title:  "The Peripheral"
+  url:    "http://www.goodreads.com/book/show/20821159-the-peripheral"
+- author: William Golding
+  title:  "Lord of the Flies"
+  url:    "http://www.goodreads.com/book/show/7624.Lord_of_the_Flies"
+- author: William Goldman
+  title:  "The Princess Bride"
+  url:    "http://www.goodreads.com/book/show/21787.The_Princess_Bride"
+- author: Zack Hample
+  title:  "Watching Baseball Smarter: A Professional Fan's Guide for Beginners, Semi-experts, and Deeply Serious Geeks"
+  url:    "http://www.goodreads.com/book/show/562640.Watching_Baseball_Smarter"
 - author: Al Roker
   title:  "The Storm of the Century: Tragedy, Heroism, Survival, and the Epic True Story of America's Deadliest Natural Disaster: The Great Gulf Hurricane of 1900"
   url:    "http://www.goodreads.com/book/show/23460968-the-storm-of-the-century"
-- author: J.K. Rowling
-  title:  "The Tales of Beedle the Bard"
-  url:    "http://www.goodreads.com/book/show/3950967-the-tales-of-beedle-the-bard"
-- author: J.K. Rowling
-  title:  "The Casual Vacancy"
-  url:    "http://www.goodreads.com/book/show/13497818-the-casual-vacancy"
-- author: Matt Ruff
-  title:  "The Mirage"
-  url:    "http://www.goodreads.com/book/show/12067161-the-mirage"
-- author: Carlos Ruiz Zafón
-  title:  "The Shadow of the Wind (The Cemetery of Forgotten Books,  #1)"
-  url:    "http://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind"
-- author: Mark Russinovich
-  title:  "Zero Day (Jeff Aiken #1)"
-  url:    "http://www.goodreads.com/book/show/9763010-zero-day"
-- author: Jonathan Safran Foer
-  title:  "Tree of Codes"
-  url:    "http://www.goodreads.com/book/show/9583799-tree-of-codes"
-- author: Carl Sagan
-  title:  "Cosmos"
-  url:    "http://www.goodreads.com/book/show/55030.Cosmos"
-- author: Carl Sagan
-  title:  "Pale Blue Dot: A Vision of the Human Future in Space"
-  url:    "http://www.goodreads.com/book/show/61663.Pale_Blue_Dot"
-- author: Marcus Sakey
-  title:  "Brilliance (Brilliance Saga, #1)"
-  url:    "http://www.goodreads.com/book/show/18190538-brilliance"
-- author: Hiroshi Sakurazaka
-  title:  "All You Need Is Kill"
-  url:    "http://www.goodreads.com/book/show/6255949-all-you-need-is-kill"
-- author: Lorraine Santoli
-  title:  "Inside the Disney Marketing Machine: In The Era of Michael Eisner and Frank Wells"
-  url:    "http://www.goodreads.com/book/show/25880123-inside-the-disney-marketing-machine"
-- author: John Scalzi
-  title:  "The Last Colony (Old Man's War #3)"
-  url:    "http://www.goodreads.com/book/show/88071.The_Last_Colony"
-- author: John Scalzi
-  title:  "Fuzzy Nation"
-  url:    "http://www.goodreads.com/book/show/9647532-fuzzy-nation"
-- author: John Scalzi
-  title:  "Agent to the Stars"
-  url:    "http://www.goodreads.com/book/show/88072.Agent_to_the_Stars"
-- author: John Scalzi
-  title:  "The Android's Dream"
-  url:    "http://www.goodreads.com/book/show/7081.The_Android_s_Dream"
-- author: John Scalzi
-  title:  "Redshirts"
-  url:    "http://www.goodreads.com/book/show/13055592-redshirts"
+- author: Arthur Nersesian
+  title:  "The Fuck-Up"
+  url:    "http://www.goodreads.com/book/show/25148.The_Fuck_Up"
+- author: Ashlee Vance
+  title:  "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future"
+  url:    "http://www.goodreads.com/book/show/22535480-elon-musk"
+- author: Ben H. Winters
+  title:  "The Last Policeman (The Last Policeman, #1)"
+  url:    "http://www.goodreads.com/book/show/13330370-the-last-policeman"
+- author: Ben H. Winters
+  title:  "Underground Airlines"
+  url:    "http://www.goodreads.com/book/show/23208397-underground-airlines"
+- author: Bill  Nye
+  title:  "Undeniable: Evolution and the Science of Creation"
+  url:    "http://www.goodreads.com/book/show/22609791-undeniable"
+- author: Bill Simmons
+  title:  "The Book of Basketball: The NBA According to The Sports Guy"
+  url:    "http://www.goodreads.com/book/show/4452257-the-book-of-basketball"
+- author: Bob Woodward
+  title:  "The Price of Politics"
+  url:    "http://www.goodreads.com/book/show/15801034-the-price-of-politics"
 - author: Brent Schlender
   title:  "Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader"
   url:    "http://www.goodreads.com/book/show/23395719-becoming-steve-jobs"
 - author: Bruce Schneier
   title:  "Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World"
   url:    "http://www.goodreads.com/book/show/22253747-data-and-goliath"
-- author: Stuart  Scott
-  title:  "Every Day I Fight"
-  url:    "http://www.goodreads.com/book/show/23281694-every-day-i-fight"
+- author: Carl Sagan
+  title:  "Cosmos"
+  url:    "http://www.goodreads.com/book/show/55030.Cosmos"
+- author: Carl Sagan
+  title:  "Pale Blue Dot: A Vision of the Human Future in Space"
+  url:    "http://www.goodreads.com/book/show/61663.Pale_Blue_Dot"
+- author: Carlos Ruiz Zafón
+  title:  "The Shadow of the Wind (The Cemetery of Forgotten Books,  #1)"
+  url:    "http://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind"
+- author: Cathy O'Neil
+  title:  "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy"
+  url:    "http://www.goodreads.com/book/show/28186015-weapons-of-math-destruction"
+- author: Chad Orzel
+  title:  "Eureka: Discovering Your Inner Scientist"
+  url:    "http://www.goodreads.com/book/show/21413845-eureka"
+- author: Charles Petzold
+  title:  "Code: The Hidden Language of Computer Hardware and Software"
+  url:    "http://www.goodreads.com/book/show/44882.Code"
+- author: Charles R. Verhey
+  title:  "Firecracker"
+  url:    "http://www.goodreads.com/book/show/13498755-firecracker"
 - author: Charles Seife
   title:  "Zero: The Biography of a Dangerous Idea"
   url:    "http://www.goodreads.com/book/show/329336.Zero"
-- author: Robert Shea
-  title:  "The Eye in the Pyramid (Illuminatus 1)"
-  url:    "http://www.goodreads.com/book/show/241879.The_Eye_in_the_Pyramid"
-- author: William L. Shirer
-  title:  "The Rise and Fall of the Third Reich: A History of Nazi Germany"
-  url:    "http://www.goodreads.com/book/show/767171.The_Rise_and_Fall_of_the_Third_Reich"
-- author: Russell Shorto
-  title:  "The Island at the Center of the World: The Epic Story of Dutch Manhattan and the Forgotten Colony That Shaped America"
-  url:    "http://www.goodreads.com/book/show/45000.The_Island_at_the_Center_of_the_World"
-- author: Bill Simmons
-  title:  "The Book of Basketball: The NBA According to The Sports Guy"
-  url:    "http://www.goodreads.com/book/show/4452257-the-book-of-basketball"
+- author: Charles Stross
+  title:  "Accelerando"
+  url:    "http://www.goodreads.com/book/show/17863.Accelerando"
+- author: Christopher Steiner
+  title:  "Automate This: How Algorithms Came to Rule Our World"
+  url:    "http://www.goodreads.com/book/show/13542772-automate-this"
+- author: Chuck Wendig
+  title:  "Aftermath (Star Wars: Aftermath, #1)"
+  url:    "http://www.goodreads.com/book/show/25131600-aftermath"
+- author: Chuck Wendig
+  title:  "Life Debt (Star Wars: Aftermath, #2)"
+  url:    "http://www.goodreads.com/book/show/26895161-life-debt"
+- author: Clive Thompson
+  title:  "Smarter Than You Think: How Technology is Changing Our Minds for the Better"
+  url:    "http://www.goodreads.com/book/show/17707600-smarter-than-you-think"
+- author: Connie Willis
+  title:  "Doomsday Book (Oxford Time Travel #1)"
+  url:    "http://www.goodreads.com/book/show/24983.Doomsday_Book"
+- author: Cosimo Yap
+  title:  "Opening Moves (The Gam3, #1)"
+  url:    "http://www.goodreads.com/book/show/29618814-opening-moves"
+- author: Dan  Norris
+  title:  "The 7 Day Startup: You Don't Learn Until You Launch"
+  url:    "http://www.goodreads.com/book/show/23290805-the-7-day-startup"
 - author: Dan Simmons
   title:  "Hyperion (Hyperion Cantos, #1)"
   url:    "http://www.goodreads.com/book/show/77566.Hyperion"
-- author: Simon Singh
-  title:  "The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography"
-  url:    "http://www.goodreads.com/book/show/17994.The_Code_Book"
-- author: Vaclav Smil
-  title:  "Making the Modern World: Materials and Dematerialization"
-  url:    "http://www.goodreads.com/book/show/17941760-making-the-modern-world"
-- author: Tom Rob Smith
-  title:  "Child 44 (Leo Demidov, #1)"
-  url:    "http://www.goodreads.com/book/show/2161733.Child_44"
-- author: Raymond M. Smullyan
-  title:  "What Is the Name of This Book?"
-  url:    "http://www.goodreads.com/book/show/493576.What_Is_the_Name_of_This_Book_"
+- author: Daniel H. Wilson
+  title:  "Amped"
+  url:    "http://www.goodreads.com/book/show/12678461-amped"
+- author: Daniel H. Wilson
+  title:  "Robopocalypse (Robopocalypse, #1)"
+  url:    "http://www.goodreads.com/book/show/9634967-robopocalypse"
+- author: David      Robertson
+  title:  "Brick by Brick: How LEGO Rewrote the Rules of Innovation and Conquered the Global Toy Industry"
+  url:    "http://www.goodreads.com/book/show/16054798-brick-by-brick"
+- author: Diane Vaughan
+  title:  "The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA"
+  url:    "http://www.goodreads.com/book/show/995029.The_Challenger_Launch_Decision"
+- author: Don Winslow
+  title:  "The Cartel"
+  url:    "http://www.goodreads.com/book/show/23602561-the-cartel"
+- author: Donal O'Shea
+  title:  "The Poincaré Conjecture: In Search of the Shape of the Universe"
+  url:    "http://www.goodreads.com/book/show/319016.The_Poincar_Conjecture"
+- author: Donald Ray Pollock
+  title:  "The Devil All the Time"
+  url:    "http://www.goodreads.com/book/show/10108463-the-devil-all-the-time"
+- author: Douglas Preston
+  title:  "The Monster of Florence"
+  url:    "http://www.goodreads.com/book/show/2198274.The_Monster_of_Florence"
+- author: Elie Wiesel
+  title:  "Night"
+  url:    "http://www.goodreads.com/book/show/1617.Night"
+- author: Fred Vogelstein
+  title:  "Dogfight: How Apple and Google Went to War and Started a Revolution"
+  url:    "http://www.goodreads.com/book/show/17332226-dogfight"
+- author: Gabriel Weinberg
+  title:  "Traction: A Startup Guide to Getting Customers"
+  url:    "http://www.goodreads.com/book/show/22091581-traction"
+- author: George Musser
+  title:  "Spooky Action at a Distance: The Phenomenon That Reimagines Space and Time—and What It Means for Black Holes, the Big Bang, and Theories of Everything"
+  url:    "http://www.goodreads.com/book/show/23848266-spooky-action-at-a-distance"
+- author: George Orwell
+  title:  "1984"
+  url:    "http://www.goodreads.com/book/show/5470.1984"
+- author: George Orwell
+  title:  "Animal Farm"
+  url:    "http://www.goodreads.com/book/show/7613.Animal_Farm"
+- author: Georges Perec
+  title:  "Life: A User's Manual"
+  url:    "http://www.goodreads.com/book/show/28293.Life"
+- author: Gerard K. O'Neill
+  title:  "The High Frontier: Human Colonies in Space (Apogee Books Space)"
+  url:    "http://www.goodreads.com/book/show/405001.The_High_Frontier"
+- author: Guillermo del Toro
+  title:  "The Strain (The Strain Trilogy, #1)"
+  url:    "http://www.goodreads.com/book/show/6065215-the-strain"
+- author: H.G. Wells
+  title:  "The Island of Dr. Moreau"
+  url:    "http://www.goodreads.com/book/show/29981.The_Island_of_Dr_Moreau"
+- author: H.G. Wells
+  title:  "The War of the Worlds"
+  url:    "http://www.goodreads.com/book/show/8909.The_War_of_the_Worlds"
+- author: Hannu Rajaniemi
+  title:  "The Quantum Thief (Jean le Flambeur, #1)"
+  url:    "http://www.goodreads.com/book/show/7562764-the-quantum-thief"
+- author: Hiroshi Sakurazaka
+  title:  "All You Need Is Kill"
+  url:    "http://www.goodreads.com/book/show/6255949-all-you-need-is-kill"
+- author: Howard Zinn
+  title:  "A People's History of the United States"
+  url:    "http://www.goodreads.com/book/show/2767.A_People_s_History_of_the_United_States"
+- author: Ian Stewart
+  title:  "Flatterland: Like Flatland Only More So"
+  url:    "http://www.goodreads.com/book/show/17033.Flatterland"
+- author: J.K. Rowling
+  title:  "The Casual Vacancy"
+  url:    "http://www.goodreads.com/book/show/13497818-the-casual-vacancy"
+- author: J.K. Rowling
+  title:  "The Tales of Beedle the Bard"
+  url:    "http://www.goodreads.com/book/show/3950967-the-tales-of-beedle-the-bard"
+- author: J.R.R. Tolkien
+  title:  "The Children of Húrin"
+  url:    "http://www.goodreads.com/book/show/597790.The_Children_of_H_rin"
+- author: J.R.R. Tolkien
+  title:  "The Fellowship of the Ring (The Lord of the Rings, #1)"
+  url:    "http://www.goodreads.com/book/show/34.The_Fellowship_of_the_Ring"
+- author: Jack Weatherford
+  title:  "Genghis Khan and the Making of the Modern World"
+  url:    "http://www.goodreads.com/book/show/93426.Genghis_Khan_and_the_Making_of_the_Modern_World"
 - author: James Smythe
   title:  "The Explorer"
   url:    "http://www.goodreads.com/book/show/15818384-the-explorer"
+- author: Jeff VanderMeer
+  title:  "Acceptance (Southern Reach, #3)"
+  url:    "http://www.goodreads.com/book/show/18077752-acceptance"
+- author: Jeff VanderMeer
+  title:  "Authority (Southern Reach, #2)"
+  url:    "http://www.goodreads.com/book/show/18077769-authority"
+- author: Jo Nesbø
+  title:  "The Son"
+  url:    "http://www.goodreads.com/book/show/19101283-the-son"
+- author: Joe Studwell
+  title:  "How Asia Works: Success and Failure in the World's Most Dynamic Region"
+  url:    "http://www.goodreads.com/book/show/16144575-how-asia-works"
+- author: John Scalzi
+  title:  "Agent to the Stars"
+  url:    "http://www.goodreads.com/book/show/88072.Agent_to_the_Stars"
+- author: John Scalzi
+  title:  "Fuzzy Nation"
+  url:    "http://www.goodreads.com/book/show/9647532-fuzzy-nation"
+- author: John Scalzi
+  title:  "Redshirts"
+  url:    "http://www.goodreads.com/book/show/13055592-redshirts"
+- author: John Scalzi
+  title:  "The Android's Dream"
+  url:    "http://www.goodreads.com/book/show/7081.The_Android_s_Dream"
+- author: John Scalzi
+  title:  "The Last Colony (Old Man's War #3)"
+  url:    "http://www.goodreads.com/book/show/88071.The_Last_Colony"
 - author: John Steakley
   title:  "Armor"
   url:    "http://www.goodreads.com/book/show/102327.Armor"
 - author: John Steinbeck
   title:  "Of Mice and Men"
   url:    "http://www.goodreads.com/book/show/890.Of_Mice_and_Men"
-- author: Christopher Steiner
-  title:  "Automate This: How Algorithms Came to Rule Our World"
-  url:    "http://www.goodreads.com/book/show/13542772-automate-this"
+- author: John Waters
+  title:  "Carsick"
+  url:    "http://www.goodreads.com/book/show/18490657-carsick"
+- author: Jonathan Safran Foer
+  title:  "Tree of Codes"
+  url:    "http://www.goodreads.com/book/show/9583799-tree-of-codes"
+- author: Jonathan Strahan
+  title:  "Edge of Infinity"
+  url:    "http://www.goodreads.com/book/show/13547291-edge-of-infinity"
+- author: Kim Stanley Robinson
+  title:  "Red Mars (Mars Trilogy, #1)"
+  url:    "http://www.goodreads.com/book/show/77507.Red_Mars"
+- author: Kip S. Thorne
+  title:  "The Science of Interstellar"
+  url:    "http://www.goodreads.com/book/show/23261448-the-science-of-interstellar"
+- author: Kurt Vonnegut
+  title:  "Cat's Cradle"
+  url:    "http://www.goodreads.com/book/show/135479.Cat_s_Cradle"
+- author: Kurt Vonnegut
+  title:  "Slaughterhouse-Five"
+  url:    "http://www.goodreads.com/book/show/4981.Slaughterhouse_Five"
+- author: Kurt Vonnegut
+  title:  "The Sirens of Titan"
+  url:    "http://www.goodreads.com/book/show/4982.The_Sirens_of_Titan"
+- author: Larry Niven
+  title:  "Ringworld (Ringworld #1)"
+  url:    "http://www.goodreads.com/book/show/61179.Ringworld"
+- author: Lorraine Santoli
+  title:  "Inside the Disney Marketing Machine: In The Era of Michael Eisner and Frank Wells"
+  url:    "http://www.goodreads.com/book/show/25880123-inside-the-disney-marketing-machine"
+- author: Marcus Sakey
+  title:  "Brilliance (Brilliance Saga, #1)"
+  url:    "http://www.goodreads.com/book/show/18190538-brilliance"
+- author: Mark Russinovich
+  title:  "Zero Day (Jeff Aiken #1)"
+  url:    "http://www.goodreads.com/book/show/9763010-zero-day"
+- author: Mary Roach
+  title:  "Grunt: The Curious Science of Humans at War"
+  url:    "http://www.goodreads.com/book/show/26530320-grunt"
+- author: Mary Roach
+  title:  "Packing for Mars: The Curious Science of Life in the Void"
+  url:    "http://www.goodreads.com/book/show/7237456-packing-for-mars"
+- author: Matt Ruff
+  title:  "The Mirage"
+  url:    "http://www.goodreads.com/book/show/12067161-the-mirage"
+- author: Matt Taibbi
+  title:  "The Divide: American Injustice in the Age of the Wealth Gap"
+  url:    "http://www.goodreads.com/book/show/17834864-the-divide"
+- author: Michael Talbot
+  title:  "The Holographic Universe"
+  url:    "http://www.goodreads.com/book/show/319014.The_Holographic_Universe"
+- author: Naomi Oreskes
+  title:  "Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming"
+  url:    "http://www.goodreads.com/book/show/7799004-merchants-of-doubt"
+- author: Neal Stephenson
+  title:  "Cryptonomicon"
+  url:    "http://www.goodreads.com/book/show/816.Cryptonomicon"
 - author: Neal Stephenson
   title:  "Interface"
   url:    "http://www.goodreads.com/book/show/828.Interface"
-- author: Neal Stephenson
-  title:  "Zodiac"
-  url:    "http://www.goodreads.com/book/show/825.Zodiac"
 - author: Neal Stephenson
   title:  "Seveneves"
   url:    "http://www.goodreads.com/book/show/22816087-seveneves"
@@ -800,155 +866,104 @@
   title:  "The Diamond Age: or, A Young Lady's Illustrated Primer"
   url:    "http://www.goodreads.com/book/show/827.The_Diamond_Age"
 - author: Neal Stephenson
-  title:  "Cryptonomicon"
-  url:    "http://www.goodreads.com/book/show/816.Cryptonomicon"
-- author: Ian Stewart
-  title:  "Flatterland: Like Flatland Only More So"
-  url:    "http://www.goodreads.com/book/show/17033.Flatterland"
-- author: Jonathan Strahan
-  title:  "Edge of Infinity"
-  url:    "http://www.goodreads.com/book/show/13547291-edge-of-infinity"
-- author: Charles Stross
-  title:  "Accelerando"
-  url:    "http://www.goodreads.com/book/show/17863.Accelerando"
-- author: Joe Studwell
-  title:  "How Asia Works: Success and Failure in the World's Most Dynamic Region"
-  url:    "http://www.goodreads.com/book/show/16144575-how-asia-works"
-- author: Matt Taibbi
-  title:  "The Divide: American Injustice in the Age of the Wealth Gap"
-  url:    "http://www.goodreads.com/book/show/17834864-the-divide"
-- author: Michael Talbot
-  title:  "The Holographic Universe"
-  url:    "http://www.goodreads.com/book/show/319014.The_Holographic_Universe"
-- author: Philip E. Tetlock
-  title:  "Superforecasting: The Art and Science of Prediction"
-  url:    "http://www.goodreads.com/book/show/23995360-superforecasting"
-- author: Peter Thiel
-  title:  "Zero to One: Notes on Startups, or How to Build the Future"
-  url:    "http://www.goodreads.com/book/show/18050143-zero-to-one"
-- author: Clive Thompson
-  title:  "Smarter Than You Think: How Technology is Changing Our Minds for the Better"
-  url:    "http://www.goodreads.com/book/show/17707600-smarter-than-you-think"
-- author: Kip S. Thorne
-  title:  "The Science of Interstellar"
-  url:    "http://www.goodreads.com/book/show/23261448-the-science-of-interstellar"
-- author: J.R.R. Tolkien
-  title:  "The Fellowship of the Ring (The Lord of the Rings, #1)"
-  url:    "http://www.goodreads.com/book/show/34.The_Fellowship_of_the_Ring"
-- author: J.R.R. Tolkien
-  title:  "The Children of Húrin"
-  url:    "http://www.goodreads.com/book/show/597790.The_Children_of_H_rin"
-- author: Guillermo del Toro
-  title:  "The Strain (The Strain Trilogy, #1)"
-  url:    "http://www.goodreads.com/book/show/6065215-the-strain"
+  title:  "Zodiac"
+  url:    "http://www.goodreads.com/book/show/825.Zodiac"
 - author: Neil deGrasse Tyson
   title:  "Origins: Fourteen Billion Years of Cosmic Evolution"
   url:    "http://www.goodreads.com/book/show/20663771-origins"
-- author: Ashlee Vance
-  title:  "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future"
-  url:    "http://www.goodreads.com/book/show/22535480-elon-musk"
-- author: Jeff VanderMeer
-  title:  "Acceptance (Southern Reach, #3)"
-  url:    "http://www.goodreads.com/book/show/18077752-acceptance"
-- author: Jeff VanderMeer
-  title:  "Authority (Southern Reach, #2)"
-  url:    "http://www.goodreads.com/book/show/18077769-authority"
-- author: Diane Vaughan
-  title:  "The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA"
-  url:    "http://www.goodreads.com/book/show/995029.The_Challenger_Launch_Decision"
-- author: Charles R. Verhey
-  title:  "Firecracker"
-  url:    "http://www.goodreads.com/book/show/13498755-firecracker"
-- author: Walter G. Vincenti
-  title:  "What Engineers Know and How They Know It: Analytical Studies from Aeronautical History"
-  url:    "http://www.goodreads.com/book/show/1798305.What_Engineers_Know_and_How_They_Know_It"
-- author: Raymond Vogel
-  title:  "Matter of Resistance"
-  url:    "http://www.goodreads.com/book/show/18251073-matter-of-resistance"
-- author: Fred Vogelstein
-  title:  "Dogfight: How Apple and Google Went to War and Started a Revolution"
-  url:    "http://www.goodreads.com/book/show/17332226-dogfight"
-- author: Kurt Vonnegut
-  title:  "Slaughterhouse-Five"
-  url:    "http://www.goodreads.com/book/show/4981.Slaughterhouse_Five"
-- author: Kurt Vonnegut
-  title:  "Cat's Cradle"
-  url:    "http://www.goodreads.com/book/show/135479.Cat_s_Cradle"
-- author: Kurt Vonnegut
-  title:  "The Sirens of Titan"
-  url:    "http://www.goodreads.com/book/show/4982.The_Sirens_of_Titan"
-- author: Travis Walton
-  title:  "Fire in the Sky: The Walton Experience"
-  url:    "http://www.goodreads.com/book/show/1296652.Fire_in_the_Sky"
-- author: John Waters
-  title:  "Carsick"
-  url:    "http://www.goodreads.com/book/show/18490657-carsick"
-- author: S.J. Watson
-  title:  "Before I Go to Sleep"
-  url:    "http://www.goodreads.com/book/show/9736930-before-i-go-to-sleep"
-- author: Peter Watts
-  title:  "Blindsight (Firefall, #1)"
-  url:    "http://www.goodreads.com/book/show/48484.Blindsight"
-- author: Jack Weatherford
-  title:  "Genghis Khan and the Making of the Modern World"
-  url:    "http://www.goodreads.com/book/show/93426.Genghis_Khan_and_the_Making_of_the_Modern_World"
-- author: Gabriel Weinberg
-  title:  "Traction: A Startup Guide to Getting Customers"
-  url:    "http://www.goodreads.com/book/show/22091581-traction"
-- author: H.G. Wells
-  title:  "The Island of Dr. Moreau"
-  url:    "http://www.goodreads.com/book/show/29981.The_Island_of_Dr_Moreau"
-- author: H.G. Wells
-  title:  "The War of the Worlds"
-  url:    "http://www.goodreads.com/book/show/8909.The_War_of_the_Worlds"
-- author: Chuck Wendig
-  title:  "Life Debt (Star Wars: Aftermath, #2)"
-  url:    "http://www.goodreads.com/book/show/26895161-life-debt"
-- author: Chuck Wendig
-  title:  "Aftermath (Star Wars: Aftermath, #1)"
-  url:    "http://www.goodreads.com/book/show/25131600-aftermath"
-- author: Scott Westerfeld
-  title:  "Leviathan (Leviathan, #1)"
-  url:    "http://www.goodreads.com/book/show/6050678-leviathan"
-- author: Zack Whedon
-  title:  "Leaves on the Wind (Serenity #4)"
-  url:    "http://www.goodreads.com/book/show/21532236-leaves-on-the-wind"
-- author: Elie Wiesel
-  title:  "Night"
-  url:    "http://www.goodreads.com/book/show/1617.Night"
-- author: Connie Willis
-  title:  "Doomsday Book (Oxford Time Travel #1)"
-  url:    "http://www.goodreads.com/book/show/24983.Doomsday_Book"
-- author: Daniel H. Wilson
-  title:  "Amped"
-  url:    "http://www.goodreads.com/book/show/12678461-amped"
-- author: Daniel H. Wilson
-  title:  "Robopocalypse (Robopocalypse, #1)"
-  url:    "http://www.goodreads.com/book/show/9634967-robopocalypse"
-- author: Robert Charles Wilson
-  title:  "Spin (Spin, #1)"
-  url:    "http://www.goodreads.com/book/show/910863.Spin"
-- author: Don Winslow
-  title:  "The Cartel"
-  url:    "http://www.goodreads.com/book/show/23602561-the-cartel"
-- author: Ben H. Winters
-  title:  "The Last Policeman (The Last Policeman, #1)"
-  url:    "http://www.goodreads.com/book/show/13330370-the-last-policeman"
-- author: Bob Woodward
-  title:  "The Price of Politics"
-  url:    "http://www.goodreads.com/book/show/15801034-the-price-of-politics"
-- author: Tim Wu
-  title:  "The Master Switch: The Rise and Fall of Information Empires"
-  url:    "http://www.goodreads.com/book/show/8201080-the-master-switch"
 - author: Noson S. Yanofsky
   title:  "The Outer Limits of Reason: What Science, Mathematics, and Logic Cannot Tell Us"
   url:    "http://www.goodreads.com/book/show/17841838-the-outer-limits-of-reason"
-- author: Cosimo Yap
-  title:  "Opening Moves (The Gam3, #1)"
-  url:    "http://www.goodreads.com/book/show/29618814-opening-moves"
-- author: Howard Zinn
-  title:  "A People's History of the United States"
-  url:    "http://www.goodreads.com/book/show/2767.A_People_s_History_of_the_United_States"
+- author: Paul J. Nahin
+  title:  "An Imaginary Tale: The Story of the Square Root of Minus One"
+  url:    "http://www.goodreads.com/book/show/357209.An_Imaginary_Tale"
+- author: Peter Thiel
+  title:  "Zero to One: Notes on Startups, or How to Build the Future"
+  url:    "http://www.goodreads.com/book/show/18050143-zero-to-one"
+- author: Peter Watts
+  title:  "Blindsight (Firefall, #1)"
+  url:    "http://www.goodreads.com/book/show/48484.Blindsight"
+- author: Philip E. Tetlock
+  title:  "Superforecasting: The Art and Science of Prediction"
+  url:    "http://www.goodreads.com/book/show/23995360-superforecasting"
+- author: Philip Pullman
+  title:  "The Golden Compass (His Dark Materials, #1)"
+  url:    "http://www.goodreads.com/book/show/119322.The_Golden_Compass"
+- author: Ramez Naam
+  title:  "Nexus (Nexus, #1)"
+  url:    "http://www.goodreads.com/book/show/13642710-nexus"
+- author: Randall Munroe
+  title:  "What If?: Serious Scientific Answers to Absurd Hypothetical Questions"
+  url:    "http://www.goodreads.com/book/show/21413662-what-if"
+- author: Raymond M. Smullyan
+  title:  "What Is the Name of This Book?"
+  url:    "http://www.goodreads.com/book/show/493576.What_Is_the_Name_of_This_Book_"
+- author: Raymond Vogel
+  title:  "Matter of Resistance"
+  url:    "http://www.goodreads.com/book/show/18251073-matter-of-resistance"
+- author: Richard   Preston
+  title:  "The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus"
+  url:    "http://www.goodreads.com/book/show/16213.The_Hot_Zone"
+- author: Rob  Reid
+  title:  "Year Zero"
+  url:    "http://www.goodreads.com/book/show/12953520-year-zero"
+- author: Robert Charles Wilson
+  title:  "Spin (Spin, #1)"
+  url:    "http://www.goodreads.com/book/show/910863.Spin"
+- author: Robert Shea
+  title:  "The Eye in the Pyramid (Illuminatus 1)"
+  url:    "http://www.goodreads.com/book/show/241879.The_Eye_in_the_Pyramid"
 - author: Robert Zubrin
   title:  "The Case for Mars: The Plan to Settle the Red Planet and Why We Must"
   url:    "http://www.goodreads.com/book/show/56713.The_Case_for_Mars"
+- author: Russell Shorto
+  title:  "The Island at the Center of the World: The Epic Story of Dutch Manhattan and the Forgotten Colony That Shaped America"
+  url:    "http://www.goodreads.com/book/show/45000.The_Island_at_the_Center_of_the_World"
+- author: S.J. Watson
+  title:  "Before I Go to Sleep"
+  url:    "http://www.goodreads.com/book/show/9736930-before-i-go-to-sleep"
+- author: Scott Westerfeld
+  title:  "Leviathan (Leviathan, #1)"
+  url:    "http://www.goodreads.com/book/show/6050678-leviathan"
+- author: Simon Singh
+  title:  "The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography"
+  url:    "http://www.goodreads.com/book/show/17994.The_Code_Book"
+- author: Stephen J. Pyne
+  title:  "Voyager: Seeking Newer Worlds in the Third Great Age of Discovery"
+  url:    "http://www.goodreads.com/book/show/7739373-voyager"
+- author: Stuart  Scott
+  title:  "Every Day I Fight"
+  url:    "http://www.goodreads.com/book/show/23281694-every-day-i-fight"
+- author: Terry Pratchett
+  title:  "The Color of Magic (Discworld, #1; Rincewind #1)"
+  url:    "http://www.goodreads.com/book/show/34497.The_Color_of_Magic"
+- author: Thomas Piketty
+  title:  "Capital in the Twenty-First Century"
+  url:    "http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century"
+- author: Thomas Pynchon
+  title:  "Gravity's Rainbow"
+  url:    "http://www.goodreads.com/book/show/415.Gravity_s_Rainbow"
+- author: Tim Wu
+  title:  "The Master Switch: The Rise and Fall of Information Empires"
+  url:    "http://www.goodreads.com/book/show/8201080-the-master-switch"
+- author: Tom Rob Smith
+  title:  "Child 44 (Leo Demidov, #1)"
+  url:    "http://www.goodreads.com/book/show/2161733.Child_44"
+- author: Travis Walton
+  title:  "Fire in the Sky: The Walton Experience"
+  url:    "http://www.goodreads.com/book/show/1296652.Fire_in_the_Sky"
+- author: Vaclav Smil
+  title:  "Making the Modern World: Materials and Dematerialization"
+  url:    "http://www.goodreads.com/book/show/17941760-making-the-modern-world"
+- author: Vladimir Nabokov
+  title:  "The Eye"
+  url:    "http://www.goodreads.com/book/show/46326.The_Eye"
+- author: Walter G. Vincenti
+  title:  "What Engineers Know and How They Know It: Analytical Studies from Aeronautical History"
+  url:    "http://www.goodreads.com/book/show/1798305.What_Engineers_Know_and_How_They_Know_It"
+- author: William L. Shirer
+  title:  "The Rise and Fall of the Third Reich: A History of Nazi Germany"
+  url:    "http://www.goodreads.com/book/show/767171.The_Rise_and_Fall_of_the_Third_Reich"
+- author: Zack Whedon
+  title:  "Leaves on the Wind (Serenity #4)"
+  url:    "http://www.goodreads.com/book/show/21532236-leaves-on-the-wind"
