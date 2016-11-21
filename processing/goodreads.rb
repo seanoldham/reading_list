@@ -5,6 +5,7 @@ client = Goodreads::Client.new(api_key: KEY, api_secret: SECRET)
 
 File.open("../data/to-read.yaml", "w") do |file|
 
+  book_list = []
   sorted_books = []
 
   page = 1
@@ -13,17 +14,16 @@ File.open("../data/to-read.yaml", "w") do |file|
   while page <= total_pages do
     shelf = client.shelf(USER_ID, "to-read", sort: "author", per_page: 200, page: page)
     shelf.books.each do |book|
-      sorted_books << book
+      book_list << book
     end
 
     page += 1
   end
 
-  book_list = []
-  book_list << sorted_books.sort_by do |book|
+  sorted_books << book_list.sort_by do |book|
     [book['book']['authors']['author']['name'], book['book']['title']]
   end
-  book_list[0].each do |book|
+  sorted_books[0].each do |book|
     author = book["book"]["authors"]["author"]["name"]
     title = book["book"]["title"]
     url = book["book"]["link"]
