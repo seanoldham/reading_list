@@ -103,14 +103,6 @@ function loadTimeline(finished_yaml) {
     "type": "default",
     "date": books
   }};
-  createStoryJS({
-    width: "100%",
-    height: "400",
-    source: timelineData,
-    embed_id: 'finished-timeline',
-    start_at_end: true,
-    start_zoom_adjust: 3
-  });
 }
 
 $(document).ready(function() {
