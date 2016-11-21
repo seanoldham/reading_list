@@ -21,7 +21,7 @@ File.open("../data/to-read.yaml", "w") do |file|
   end
 
   sorted_books << book_list.sort_by do |book|
-    [book['book']['authors']['author']['name'], book['book']['title']]
+    [book['book']['authors']['author']['name'].split[-1], book['book']['title']]
   end
   sorted_books[0].each do |book|
     author = book["book"]["authors"]["author"]["name"]
