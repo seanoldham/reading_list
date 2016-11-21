@@ -67,7 +67,6 @@ function loadLists() {
       }
       $("#finished").html(tmpl(yaml));
       finished_yaml = yaml;
-      loadTimeline(yaml);
     });
   });
 
@@ -90,20 +89,6 @@ $(document).on('click', '.bootbox', function(){
   if(classname && !$('.' + classname).parents('.modal-dialog').length)
     bootbox.hideAll();
 });
-
-function loadTimeline(finished_yaml) {
-  var books = []
-  $.each(finished_yaml, function(idx, book) {
-    books.push({
-      "startDate": book.finished.replace(/\//g,","),
-      "headline": book.author + ": " + book.title
-    });
-  });
-  var timelineData = { "timeline": {
-    "type": "default",
-    "date": books
-  }};
-}
 
 $(document).ready(function() {
   quotes_body_tmpl = null;
