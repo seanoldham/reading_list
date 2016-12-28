@@ -232,6 +232,9 @@
 - author: Charles Duhigg
   title:  "Smarter Faster Better: The Secrets of Being Productive in Life and Business"
   url:    "http://www.goodreads.com/book/show/25733966-smarter-faster-better"
+- author: Charles Duhigg
+  title:  "The Power of Habit: Why We Do What We Do in Life and Business"
+  url:    "http://www.goodreads.com/book/show/12609433-the-power-of-habit"
 - author: George Dyson
   title:  "Turing's Cathedral: The Origins of the Digital Universe"
   url:    "http://www.goodreads.com/book/show/12625589-turing-s-cathedral"
@@ -382,6 +385,9 @@
 - author: Robert   Harris
   title:  "Pompeii"
   url:    "http://www.goodreads.com/book/show/880.Pompeii"
+- author: Marijn Haverbeke
+  title:  "Eloquent JavaScript: A Modern Introduction to Programming, 2nd Edition"
+  url:    "http://www.goodreads.com/book/show/22843271-eloquent-javascript"
 - author: Stephen Hawking
   title:  "The Universe in a Nutshell"
   url:    "http://www.goodreads.com/book/show/2095.The_Universe_in_a_Nutshell"
@@ -637,6 +643,9 @@
 - author: Christopher Moore
   title:  "Lamb: The Gospel According to Biff, Christ's Childhood Pal"
   url:    "http://www.goodreads.com/book/show/28881.Lamb"
+- author: Hazel Muir
+  title:  "Science in Seconds"
+  url:    "http://www.goodreads.com/book/show/13503375-science-in-seconds"
 - author: Siddhartha Mukherjee
   title:  "The Gene: An Intimate History"
   url:    "http://www.goodreads.com/book/show/27276428-the-gene"
@@ -676,9 +685,6 @@
 - author: Bill  Nye
   title:  "Undeniable: Evolution and the Science of Creation"
   url:    "http://www.goodreads.com/book/show/22609791-undeniable"
-- author: Cathy O'Neil
-  title:  "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy"
-  url:    "http://www.goodreads.com/book/show/28186015-weapons-of-math-destruction"
 - author: Gerard K. O'Neill
   title:  "The High Frontier: Human Colonies in Space (Apogee Books Space)"
   url:    "http://www.goodreads.com/book/show/405001.The_High_Frontier"
@@ -937,6 +943,9 @@
 - author: Kurt Vonnegut
   title:  "The Sirens of Titan"
   url:    "http://www.goodreads.com/book/show/4982.The_Sirens_of_Titan"
+- author: Tom Wainwright
+  title:  "Narconomics: How to Run a Drug Cartel"
+  url:    "http://www.goodreads.com/book/show/25159062-narconomics"
 - author: Travis Walton
   title:  "Fire in the Sky: The Walton Experience"
   url:    "http://www.goodreads.com/book/show/1296652.Fire_in_the_Sky"
