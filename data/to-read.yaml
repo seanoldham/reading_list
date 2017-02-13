@@ -296,7 +296,7 @@
   title:  "The Presidents Club: Inside the World's Most Exclusive Fraternity"
   url:    "http://www.goodreads.com/book/show/12410640-the-presidents-club"
 - author: William Gibson
-  title:  "Neuromancer (Sprawl, #1)"
+  title:  "Neuromancer"
   url:    "http://www.goodreads.com/book/show/22328.Neuromancer"
 - author: William Gibson
   title:  "The Peripheral"
@@ -401,7 +401,7 @@
   title:  "The Moon is a Harsh Mistress"
   url:    "http://www.goodreads.com/book/show/16690.The_Moon_is_a_Harsh_Mistress"
 - author: Frank Herbert
-  title:  "Dune (Dune Chronicles #1)"
+  title:  "Dune"
   url:    "http://www.goodreads.com/book/show/234225.Dune"
 - author: John Hersey
   title:  "Hiroshima"
@@ -430,6 +430,9 @@
 - author: Hugh Howey
   title:  "The Wool Trilogy (Silo, #1-3)"
   url:    "http://www.goodreads.com/book/show/20745447-the-wool-trilogy"
+- author: Meg Howrey
+  title:  "The Wanderers"
+  url:    "http://www.goodreads.com/book/show/29966530-the-wanderers"
 - author: Kameron Hurley
   title:  "The Mirror Empire (Worldbreaker Saga, #1)"
   url:    "http://www.goodreads.com/book/show/20646731-the-mirror-empire"
@@ -481,6 +484,9 @@
 - author: E.K. Johnston
   title:  "Ahsoka"
   url:    "http://www.goodreads.com/book/show/29749107-ahsoka"
+- author: Brian Jay Jones
+  title:  "George Lucas: A Life"
+  url:    "http://www.goodreads.com/book/show/29775340-george-lucas"
 - author: David Kahn
   title:  "The Codebreakers: The Comprehensive History of Secret Communication from Ancient Times to the Internet"
   url:    "http://www.goodreads.com/book/show/29608.The_Codebreakers"
@@ -524,7 +530,7 @@
   title:  "Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History"
   url:    "http://www.goodreads.com/book/show/239186.Isaac_s_Storm"
 - author: Ann Leckie
-  title:  "Ancillary Justice (Imperial Radch, #1)"
+  title:  "Ancillary Justice (Imperial Radch #1)"
   url:    "http://www.goodreads.com/book/show/17333324-ancillary-justice"
 - author: Dick Lehr
   title:  "Black Mass"
@@ -622,6 +628,9 @@
 - author: J.B. Millhollin
   title:  "Brakus (Brakus #1)"
   url:    "http://www.goodreads.com/book/show/20982528-brakus"
+- author: Giles Milton
+  title:  "Churchill's Ministry of Ungentlemanly Warfare: The Mavericks Who Plotted Hitler's Defeat"
+  url:    "http://www.goodreads.com/book/show/29635592-churchill-s-ministry-of-ungentlemanly-warfare"
 - author: Mark Miodownik
   title:  "Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World"
   url:    "http://www.goodreads.com/book/show/18222843-stuff-matters"
@@ -673,6 +682,9 @@
 - author: Jo Nesbø
   title:  "The Son"
   url:    "http://www.goodreads.com/book/show/19101283-the-son"
+- author: Annalee Newitz
+  title:  "Autonomous"
+  url:    "http://www.goodreads.com/book/show/28209634-autonomous"
 - author: Larry Niven
   title:  "Ringworld (Ringworld #1)"
   url:    "http://www.goodreads.com/book/show/61179.Ringworld"
@@ -700,6 +712,9 @@
 - author: Chad Orzel
   title:  "Eureka: Discovering Your Inner Scientist"
   url:    "http://www.goodreads.com/book/show/21413845-eureka"
+- author: Michael Parker Pearson
+  title:  "Stonehenge: A New Understanding: Solving the Mysteries of the Greatest Stone Age Monument"
+  url:    "http://www.goodreads.com/book/show/16277233-stonehenge"
 - author: Georges Perec
   title:  "Life: A User's Manual"
   url:    "http://www.goodreads.com/book/show/28293.Life"
@@ -788,14 +803,23 @@
   title:  "Fuzzy Nation"
   url:    "http://www.goodreads.com/book/show/9647532-fuzzy-nation"
 - author: John Scalzi
+  title:  "Head On (Lock In, #2)"
+  url:    "http://www.goodreads.com/book/show/25606078-head-on"
+- author: John Scalzi
   title:  "Redshirts"
   url:    "http://www.goodreads.com/book/show/13055592-redshirts"
 - author: John Scalzi
   title:  "The Android's Dream"
   url:    "http://www.goodreads.com/book/show/7081.The_Android_s_Dream"
 - author: John Scalzi
+  title:  "The Collapsing Empire"
+  url:    "http://www.goodreads.com/book/show/30078567-the-collapsing-empire"
+- author: John Scalzi
   title:  "The Last Colony (Old Man's War #3)"
   url:    "http://www.goodreads.com/book/show/88071.The_Last_Colony"
+- author: Richard Schickel
+  title:  "The Disney Version: The Life, Times, Art and Commerce of Walt Disney"
+  url:    "http://www.goodreads.com/book/show/1197575.The_Disney_Version"
 - author: Brent Schlender
   title:  "Becoming Steve Jobs: The Evolution of a Reckless Upstart into a Visionary Leader"
   url:    "http://www.goodreads.com/book/show/23395719-becoming-steve-jobs"
@@ -841,6 +865,9 @@
 - author: John Steakley
   title:  "Armor"
   url:    "http://www.goodreads.com/book/show/102327.Armor"
+- author: R.E.  Stearns
+  title:  "Barbary Station (Shieldrunner Pirates, #1)"
+  url:    "http://www.goodreads.com/book/show/27056577-barbary-station"
 - author: John Steinbeck
   title:  "Of Mice and Men"
   url:    "http://www.goodreads.com/book/show/890.Of_Mice_and_Men"
@@ -968,11 +995,11 @@
   title:  "The War of the Worlds"
   url:    "http://www.goodreads.com/book/show/8909.The_War_of_the_Worlds"
 - author: Chuck Wendig
-  title:  "Aftermath"
+  title:  "Aftermath (Star Wars: Aftermath, #1)"
   url:    "http://www.goodreads.com/book/show/25131600-aftermath"
 - author: Chuck Wendig
-  title:  "Aftermath - Life Debt"
-  url:    "http://www.goodreads.com/book/show/26895161-aftermath---life-debt"
+  title:  "Aftermath: Life Debt (Star Wars: Aftermath, #2)"
+  url:    "http://www.goodreads.com/book/show/26895161-aftermath"
 - author: Scott Westerfeld
   title:  "Leviathan (Leviathan, #1)"
   url:    "http://www.goodreads.com/book/show/6050678-leviathan"
