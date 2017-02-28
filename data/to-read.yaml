@@ -319,6 +319,9 @@
 - author: J.E. Gordon
   title:  "Structures: Or Why Things Don't Fall Down"
   url:    "http://www.goodreads.com/book/show/245344.Structures"
+- author: Mary Graham
+  title:  "Presidents' Secrets: The Use and Abuse of Hidden Power"
+  url:    "http://www.goodreads.com/book/show/32707018-presidents-secrets"
 - author: Adam M. Grant
   title:  "Originals: How Non-Conformists Move the World"
   url:    "http://www.goodreads.com/book/show/25614523-originals"
@@ -541,7 +544,10 @@
 - author: Michael Lewis
   title:  "Moneyball: The Art of Winning an Unfair Game"
   url:    "http://www.goodreads.com/book/show/1301.Moneyball"
-- author: Michael Lewis
+- author: Dan Lewis
+  title:  "Now I Know: The Revealing Stories Behind the World's Most Interesting Facts"
+  url:    "http://www.goodreads.com/book/show/18297836-now-i-know"
+- author: Michael   Lewis
   title:  "The Big Short: Inside the Doomsday Machine"
   url:    "http://www.goodreads.com/book/show/6463967-the-big-short"
 - author: Michael Lewis
@@ -560,8 +566,8 @@
   title:  "I Am Number Four (Lorien Legacies, #1)"
   url:    "http://www.goodreads.com/book/show/7747374-i-am-number-four"
 - author: James Luceno
-  title:  "Catalyst - A Rogue One Novel"
-  url:    "http://www.goodreads.com/book/show/29662066-catalyst---a-rogue-one-novel"
+  title:  "Star Wars: Catalyst: A Rogue One Novel"
+  url:    "http://www.goodreads.com/book/show/29662066-star-wars"
 - author: James Luceno
   title:  "Tarkin"
   url:    "http://www.goodreads.com/book/show/22012250-tarkin"
@@ -610,6 +616,9 @@
 - author: Jon Meacham
   title:  "Thomas Jefferson: The Art of Power"
   url:    "http://www.goodreads.com/book/show/13533740-thomas-jefferson"
+- author: Bruce Bueno De Mesquita
+  title:  "The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics"
+  url:    "http://www.goodreads.com/book/show/11612989-the-dictator-s-handbook"
 - author: Sandi Metz
   title:  "Practical Object Oriented Design in Ruby"
   url:    "http://www.goodreads.com/book/show/13507787-practical-object-oriented-design-in-ruby"
@@ -847,9 +856,6 @@
 - author: Bill Simmons
   title:  "The Book of Basketball: The NBA According to The Sports Guy"
   url:    "http://www.goodreads.com/book/show/4452257-the-book-of-basketball"
-- author: Simon Singh
-  title:  "The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography"
-  url:    "http://www.goodreads.com/book/show/17994.The_Code_Book"
 - author: Vaclav Smil
   title:  "Making the Modern World: Materials and Dematerialization"
   url:    "http://www.goodreads.com/book/show/17941760-making-the-modern-world"
@@ -931,6 +937,9 @@
 - author: Guillermo del Toro
   title:  "The Strain (The Strain Trilogy, #1)"
   url:    "http://www.goodreads.com/book/show/6065215-the-strain"
+- author: Barbara W. Tuchman
+  title:  "The Guns of August"
+  url:    "http://www.goodreads.com/book/show/11366.The_Guns_of_August"
 - author: Neil deGrasse Tyson
   title:  "Origins: Fourteen Billion Years of Cosmic Evolution"
   url:    "http://www.goodreads.com/book/show/20663771-origins"
