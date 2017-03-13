@@ -42,7 +42,7 @@ p {
 }
 
 a {
-  color: #42dca3;
+  color: #34D0FD;
   -webkit-transition: all .2s ease-in-out;
   -moz-transition: all .2s ease-in-out;
   transition: all .2s ease-in-out;
@@ -51,7 +51,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #1d9b6c;
+  color: #34D0FD;
 }
 
 a.book-url {
@@ -59,7 +59,7 @@ a.book-url {
 }
 
 a.book-url:hover {
-  color: #42dca3;
+  color: #34D0FD;
 }
 
 .light {
@@ -266,7 +266,7 @@ a.book-url:hover {
 }
 
 .count {
-  color: rgba(66, 220, 163, 0.75);
+  color: #34D0FD;
   font-size: 0.75em;
 }
 
@@ -281,17 +281,17 @@ a.book-url:hover {
 }
 
 .btn-default {
-  border: 1px solid #42dca3;
-  color: #42dca3;
+  border: 1px solid #34D0FD;
+  color: #34D0FD;
   background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-  border: 1px solid #42dca3;
+  border: 1px solid #34D0FD;
   outline: 0;
   color: #000;
-  background-color: #42dca3;
+  background-color: #34D0FD;
 }
 
 ul.banner-social-buttons {
@@ -347,11 +347,7 @@ body {
 }
 
 .current-text {
-  color: rgb(66, 220, 163);
-}
-
-.next-text {
-  color: rgba(66, 220, 163, 0.7);
+  color: #34D0FD;
 }
 
 #to-read {
@@ -371,13 +367,7 @@ body {
   font-family: 'FontAwesome';
   content: '\f101';
   margin:0 5px 0 -15px;
-  color: rgba(66, 220, 163, 0.7);
-}
-
-#book-logo {
-  background: -webkit-linear-gradient(rgb(66, 220, 163), rgba(66, 220, 163, 0.4));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #34D0FD;
 }
 
 #open-rating {
@@ -385,7 +375,7 @@ body {
 }
 
 hr {
-  border-top-color: rgba(66, 220, 163, 0.7);
+  border-top-color: #34D0FD;
 }
 
 #title-text {
