@@ -37,12 +37,6 @@ function loadLists() {
     });
   });
 
-  getTemplateAjax('templates/up-next.hbars.html', function(tmpl) {
-    loadYAML("up-next", function(yaml) {
-      $("#up-next").html(tmpl(yaml));
-    });
-  });
-
   getTemplateAjax('templates/to-read.hbars.html', function(tmpl) {
     loadYAML("to-read", function(yaml) {
       $("#to-read").html(tmpl(yaml));
