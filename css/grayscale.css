@@ -9,7 +9,7 @@ body {
   height: 100%;
   font-family: Merriweather, serif;
   color: #fff;
-  background-color: #000;
+  background-color: #111;
 }
 
 html {
@@ -71,7 +71,7 @@ a.book-url:hover {
   border-bottom: 1px solid rgba(255,255,255,.3);
   text-transform: uppercase;
   font-family: Merriweather, serif;
-  background-color: #000;
+  background-color: #111;
 }
 
 .navbar-custom .navbar-brand {
@@ -141,7 +141,7 @@ a.book-url:hover {
   .navbar-custom.top-nav-collapse {
     padding: 0;
     border-bottom: 1px solid rgba(255,255,255,.1);
-    background: rgba(0,0,0,.8);
+    background: rgba(17,17,17,.8);
   }
 }
 
@@ -152,8 +152,7 @@ a.book-url:hover {
   padding: 100px 0;
   text-align: center;
   color: #fff;
-  background: url(../img/bookcase.jpg) no-repeat bottom center scroll;
-  background-color: #000;
+  background-color: #111;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
