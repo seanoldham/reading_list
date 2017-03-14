@@ -69,7 +69,6 @@ a.book-url:hover {
 .navbar-custom {
   margin-bottom: 0;
   border-bottom: 1px solid rgba(255,255,255,.3);
-  text-transform: uppercase;
   font-family: Merriweather, serif;
   background-color: #111;
 }
@@ -343,7 +342,7 @@ body {
 }
 
 .modal-content {
-  color: #000000;
+  color: #111;
 }
 
 .current-text {
