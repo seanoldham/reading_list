@@ -143,8 +143,8 @@
   title:  "Blackett's War: The Men Who Defeated the Nazi U-Boats and Brought Science to the Art of Warfare"
   url:    "http://www.goodreads.com/book/show/15849559-blackett-s-war"
 - author: Dean Burnett
-  title:  "Idiot Brain: What Your Head Is Really Up To"
-  url:    "http://www.goodreads.com/book/show/26530389-idiot-brain"
+  title:  "Idiot Brain - What Your Head Is Really Up To"
+  url:    "http://www.goodreads.com/book/show/26530389-idiot-brain---what-your-head-is-really-up-to"
 - author: Jim Butcher
   title:  "Storm Front (The Dresden Files, #1)"
   url:    "http://www.goodreads.com/book/show/47212.Storm_Front"
@@ -262,6 +262,9 @@
 - author: Steven Erikson
   title:  "Gardens of the Moon (The Malazan Book of the Fallen, #1)"
   url:    "http://www.goodreads.com/book/show/55399.Gardens_of_the_Moon"
+- author: Richard J. Evans
+  title:  "The Coming of the Third Reich (The History of the Third Reich, #1)"
+  url:    "http://www.goodreads.com/book/show/319473.The_Coming_of_the_Third_Reich"
 - author: Lyndsay Faye
   title:  "The Whole Art of Detection: Lost Mysteries of Sherlock Holmes"
   url:    "http://www.goodreads.com/book/show/30622624-the-whole-art-of-detection"
@@ -290,8 +293,8 @@
   title:  "The Machine Stops"
   url:    "http://www.goodreads.com/book/show/4711854-the-machine-stops"
 - author: Alexander Freed
-  title:  "Battlefront - Twilight Company"
-  url:    "http://www.goodreads.com/book/show/25455901-battlefront---twilight-company"
+  title:  "Battlefront: Twilight Company"
+  url:    "http://www.goodreads.com/book/show/25455901-battlefront"
 - author: Cornelia Funke
   title:  "Inkheart (Inkworld, #1)"
   url:    "http://www.goodreads.com/book/show/28194.Inkheart"
@@ -345,7 +348,7 @@
   url:    "http://www.goodreads.com/book/show/25614523-originals"
 - author: Claudia Gray
   title:  "Bloodline"
-  url:    "http://www.goodreads.com/book/show/27209239-bloodline"
+  url:    "http://www.goodreads.com/book/show/25733885-bloodline"
 - author: Peter Green
   title:  "Alexander of Macedon, 356-323 B.C."
   url:    "http://www.goodreads.com/book/show/232124.Alexander_of_Macedon_356_323_B_C_"
@@ -391,6 +394,12 @@
 - author: David Heinemeier Hansson
   title:  "Remote: Office Not Required"
   url:    "http://www.goodreads.com/book/show/17316682-remote"
+- author: Yuval Noah Harari
+  title:  "Homo Deus: A Brief History of Tomorrow"
+  url:    "http://www.goodreads.com/book/show/31138556-homo-deus"
+- author: Yuval Noah Harari
+  title:  "Sapiens: A Brief History of Humankind"
+  url:    "http://www.goodreads.com/book/show/23692271-sapiens"
 - author: Chad Harbach
   title:  "The Art of Fielding"
   url:    "http://www.goodreads.com/book/show/10996342-the-art-of-fielding"
@@ -412,9 +421,6 @@
 - author: Stephen Hawking
   title:  "The Universe in a Nutshell"
   url:    "http://www.goodreads.com/book/show/2095.The_Universe_in_a_Nutshell"
-- author: Paula Hawkins
-  title:  "The Girl on the Train"
-  url:    "http://www.goodreads.com/book/show/22557272-the-girl-on-the-train"
 - author: Terry Hayes
   title:  "I Am Pilgrim (Pilgrim, #1)"
   url:    "http://www.goodreads.com/book/show/18144124-i-am-pilgrim"
@@ -428,7 +434,7 @@
   title:  "The Moon is a Harsh Mistress"
   url:    "http://www.goodreads.com/book/show/16690.The_Moon_is_a_Harsh_Mistress"
 - author: Frank Herbert
-  title:  "Dune"
+  title:  "Dune (Dune #1)"
   url:    "http://www.goodreads.com/book/show/234225.Dune"
 - author: John Hersey
   title:  "Hiroshima"
@@ -484,8 +490,8 @@
 - author: Walter Isaacson
   title:  "Steve Jobs"
   url:    "http://www.goodreads.com/book/show/11084145-steve-jobs"
-- author: Annie   Jacobsen
-  title:  "The Pentagon's Brain: An Uncensored History of DARPA, America's Top-Secret Military Research Agency"
+- author: Annie Jacobsen
+  title:  "The Pentagon's Brain"
   url:    "http://www.goodreads.com/book/show/24396871-the-pentagon-s-brain"
 - author: Ray Jayawardhana
   title:  "Neutrino Hunters: The Thrilling Chase for a Ghostly Particle to Unlock the Secrets of the Universe"
@@ -571,10 +577,10 @@
 - author: Dan Lewis
   title:  "Now I Know: The Revealing Stories Behind the World's Most Interesting Facts"
   url:    "http://www.goodreads.com/book/show/18297836-now-i-know"
-- author: Michael   Lewis
+- author: Michael Lewis
   title:  "The Big Short: Inside the Doomsday Machine"
   url:    "http://www.goodreads.com/book/show/6463967-the-big-short"
-- author: Michael   Lewis
+- author: Michael Lewis
   title:  "The Undoing Project: A Friendship That Changed Our Minds"
   url:    "http://www.goodreads.com/book/show/30334134-the-undoing-project"
 - author: Ben Lindbergh
@@ -590,12 +596,12 @@
   title:  "I Am Number Four (Lorien Legacies, #1)"
   url:    "http://www.goodreads.com/book/show/7747374-i-am-number-four"
 - author: James Luceno
-  title:  "Star Wars: Catalyst: A Rogue One Novel"
-  url:    "http://www.goodreads.com/book/show/29662066-star-wars"
+  title:  "Catalyst: A Rogue One Novel"
+  url:    "http://www.goodreads.com/book/show/29662066-catalyst"
 - author: James Luceno
   title:  "Tarkin"
   url:    "http://www.goodreads.com/book/show/22012250-tarkin"
-- author: John  MacCormick
+- author: John MacCormick
   title:  "Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today's Computers"
   url:    "http://www.goodreads.com/book/show/12413727-nine-algorithms-that-changed-the-future"
 - author: Ben Macintyre
@@ -719,7 +725,7 @@
   title:  "Autonomous"
   url:    "http://www.goodreads.com/book/show/28209634-autonomous"
 - author: Larry Niven
-  title:  "Ringworld (Ringworld #1)"
+  title:  "Ringworld (Ringworld, #1)"
   url:    "http://www.goodreads.com/book/show/61179.Ringworld"
 - author: Dan  Norris
   title:  "The 7 Day Startup: You Don't Learn Until You Launch"
@@ -755,8 +761,8 @@
   title:  "Stonehenge: A New Understanding: Solving the Mysteries of the Greatest Stone Age Monument"
   url:    "http://www.goodreads.com/book/show/16277233-stonehenge"
 - author: Georges Perec
-  title:  "Life: A User's Manual"
-  url:    "http://www.goodreads.com/book/show/28293.Life"
+  title:  "Life A User's Manual"
+  url:    "http://www.goodreads.com/book/show/28293.Life_A_User_s_Manual"
 - author: Charles Petzold
   title:  "Code: The Hidden Language of Computer Hardware and Software"
   url:    "http://www.goodreads.com/book/show/44882.Code"
@@ -805,6 +811,9 @@
 - author: Al Roker
   title:  "The Storm of the Century: Tragedy, Heroism, Survival, and the Epic True Story of America's Deadliest Natural Disaster: The Great Gulf Hurricane of 1900"
   url:    "http://www.goodreads.com/book/show/23460968-the-storm-of-the-century"
+- author: Jon Ronson
+  title:  "The Elephant in the Room"
+  url:    "http://www.goodreads.com/book/show/32478630-the-elephant-in-the-room"
 - author: J.K. Rowling
   title:  "The Casual Vacancy"
   url:    "http://www.goodreads.com/book/show/13497818-the-casual-vacancy"
@@ -851,6 +860,9 @@
   title:  "The Android's Dream"
   url:    "http://www.goodreads.com/book/show/7081.The_Android_s_Dream"
 - author: John Scalzi
+  title:  "The God Engines"
+  url:    "http://www.goodreads.com/book/show/6470498-the-god-engines"
+- author: John Scalzi
   title:  "The Last Colony (Old Man's War #3)"
   url:    "http://www.goodreads.com/book/show/88071.The_Last_Colony"
 - author: Richard Schickel
@@ -880,9 +892,6 @@
 - author: Dan Simmons
   title:  "Hyperion (Hyperion Cantos, #1)"
   url:    "http://www.goodreads.com/book/show/77566.Hyperion"
-- author: Bill Simmons
-  title:  "The Book of Basketball: The NBA According to The Sports Guy"
-  url:    "http://www.goodreads.com/book/show/4452257-the-book-of-basketball"
 - author: Vaclav Smil
   title:  "Making the Modern World: Materials and Dematerialization"
   url:    "http://www.goodreads.com/book/show/17941760-making-the-modern-world"
@@ -949,6 +958,9 @@
 - author: Peter Thiel
   title:  "Zero to One: Notes on Startups, or How to Build the Future"
   url:    "http://www.goodreads.com/book/show/18050143-zero-to-one"
+- author: Derek Thompson
+  title:  "Hit Makers: The Science of Popularity in an Age of Distraction"
+  url:    "http://www.goodreads.com/book/show/30901608-hit-makers"
 - author: Clive Thompson
   title:  "Smarter Than You Think: How Technology is Changing Our Minds for the Better"
   url:    "http://www.goodreads.com/book/show/17707600-smarter-than-you-think"
@@ -967,6 +979,9 @@
 - author: Barbara W. Tuchman
   title:  "The Guns of August"
   url:    "http://www.goodreads.com/book/show/11366.The_Guns_of_August"
+- author: Neil deGrasse Tyson
+  title:  "Astrophysics for People in a Hurry"
+  url:    "http://www.goodreads.com/book/show/32191710-astrophysics-for-people-in-a-hurry"
 - author: Neil deGrasse Tyson
   title:  "Origins: Fourteen Billion Years of Cosmic Evolution"
   url:    "http://www.goodreads.com/book/show/20663771-origins"
@@ -1039,14 +1054,14 @@
 - author: Scott Westerfeld
   title:  "Leviathan (Leviathan, #1)"
   url:    "http://www.goodreads.com/book/show/6050678-leviathan"
-- author: Zack Whedon
-  title:  "Leaves on the Wind"
-  url:    "http://www.goodreads.com/book/show/21532236-leaves-on-the-wind"
+- author: Colson Whitehead
+  title:  "The Underground Railroad"
+  url:    "http://www.goodreads.com/book/show/30555488-the-underground-railroad"
 - author: Elie Wiesel
   title:  "Night"
   url:    "http://www.goodreads.com/book/show/1617.Night"
 - author: Connie Willis
-  title:  "Doomsday Book (Oxford Time Travel #1)"
+  title:  "Doomsday Book (Oxford Time Travel, #1)"
   url:    "http://www.goodreads.com/book/show/24983.Doomsday_Book"
 - author: Daniel H. Wilson
   title:  "Amped"
@@ -1078,6 +1093,9 @@
 - author: Cosimo Yap
   title:  "Opening Moves (The Gam3, #1)"
   url:    "http://www.goodreads.com/book/show/29618814-opening-moves"
+- author: Bassem Youssef
+  title:  "Revolution for Dummies: Laughing through the Arab Spring"
+  url:    "http://www.goodreads.com/book/show/30759299-revolution-for-dummies"
 - author: Carlos Ruiz Zafón
   title:  "The Shadow of the Wind (The Cemetery of Forgotten Books,  #1)"
   url:    "http://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind"
