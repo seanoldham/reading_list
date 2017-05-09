@@ -182,7 +182,7 @@
   title:  "Artemis Fowl (Artemis Fowl, #1)"
   url:    "http://www.goodreads.com/book/show/249747.Artemis_Fowl"
 - author: James S.A. Corey
-  title:  "Leviathan Wakes (Expanse, #1)"
+  title:  "Leviathan Wakes (The Expanse, #1)"
   url:    "http://www.goodreads.com/book/show/8855321-leviathan-wakes"
 - author: Michael Crichton
   title:  "Prey"
@@ -346,9 +346,15 @@
 - author: Claudia Gray
   title:  "Bloodline"
   url:    "http://www.goodreads.com/book/show/25733885-bloodline"
+- author: Claudia Gray
+  title:  "Bloodline"
+  url:    "http://www.goodreads.com/book/show/27209239-bloodline"
 - author: Peter Green
   title:  "Alexander of Macedon, 356-323 B.C."
   url:    "http://www.goodreads.com/book/show/232124.Alexander_of_Macedon_356_323_B_C_"
+- author: Brian Greene
+  title:  "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory"
+  url:    "http://www.goodreads.com/book/show/8049273-the-elegant-universe"
 - author: Glenn Greenwald
   title:  "With Liberty and Justice for Some: How the Law is Used to Destroy Equality and Protect the Powerful"
   url:    "http://www.goodreads.com/book/show/9750406-with-liberty-and-justice-for-some"
@@ -415,6 +421,9 @@
 - author: Marijn Haverbeke
   title:  "Eloquent JavaScript: A Modern Introduction to Programming, 2nd Edition"
   url:    "http://www.goodreads.com/book/show/22843271-eloquent-javascript"
+- author: Stephen Hawking
+  title:  "The Grand Design"
+  url:    "http://www.goodreads.com/book/show/8520362-the-grand-design"
 - author: Stephen Hawking
   title:  "The Universe in a Nutshell"
   url:    "http://www.goodreads.com/book/show/2095.The_Universe_in_a_Nutshell"
@@ -626,6 +635,9 @@
   title:  "Aerodynamics, Aeronautics, and Flight Mechanics"
   url:    "http://www.goodreads.com/book/show/6365681-aerodynamics-aeronautics-and-flight-mechanics"
 - author: David McCullough
+  title:  "1776"
+  url:    "http://www.goodreads.com/book/show/1067.1776"
+- author: David McCullough
   title:  "John Adams"
   url:    "http://www.goodreads.com/book/show/2203.John_Adams"
 - author: David McCullough
@@ -694,6 +706,9 @@
 - author: Thomas Mullen
   title:  "The Revisionists"
   url:    "http://www.goodreads.com/book/show/10789142-the-revisionists"
+- author: Richard A. Muller
+  title:  "Physics for Future Presidents: The Science Behind the Headlines"
+  url:    "http://www.goodreads.com/book/show/6759115-physics-for-future-presidents"
 - author: Randall Munroe
   title:  "Thing Explainer: Complicated Stuff in Simple Words"
   url:    "http://www.goodreads.com/book/show/25329850-thing-explainer"
@@ -766,6 +781,9 @@
 - author: Thomas Piketty
   title:  "Capital in the Twenty-First Century"
   url:    "http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century"
+- author: Daniel H. Pink
+  title:  "Drive: The Surprising Truth About What Motivates Us"
+  url:    "http://www.goodreads.com/book/show/6452796-drive"
 - author: Donald Ray Pollock
   title:  "The Devil All the Time"
   url:    "http://www.goodreads.com/book/show/10108463-the-devil-all-the-time"
