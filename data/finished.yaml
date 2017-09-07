@@ -1,7 +1,32 @@
+- author:   Jeff Maysh
+  title:    "The Spy With No Name: The Cold War and a Case of Stolen Identity"
+  url:      "https://www.goodreads.com/book/show/33791404-the-spy-with-no-name"
+  finished: 2017-09-06
+  rating:   4
+
+- author:   Steven Frank
+  title:    "How to Count (Programming for Mere Mortals)"
+  url:      "https://www.goodreads.com/book/show/18633709-how-to-count"
+  finished: 2017-08-23
+  rating:   4
+
+- author:   Neil deGrasse Tyson
+  title:    "Astrophysics for People in a Hurry"
+  url:      "https://www.goodreads.com/book/show/33395538-astrophysics-for-people-in-a-hurry"
+  finished: 2017-08-22
+  rating:   4
+
+- author:   Stephen King
+  title:    "The Gunslinger (The Dark Tower, #1)"
+  url:      "http://www.goodreads.com/book/show/43615.The_Gunslinger"
+  finished: 2017-08-15
+  rating:   3
+
 - author:   Jon Ronson
   title:    "The Elephant in the Room"
   url:      "http://www.goodreads.com/book/show/32478630-the-elephant-in-the-room"
   finished: 2017-08-02
+  rating:   3
 
 - author:   Liu Cixin
   title:    "The Three-Body Problem (Remembrance of Earth’s Past, #1)"
