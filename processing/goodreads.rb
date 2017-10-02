@@ -15,6 +15,7 @@ File.open("../data/to-read.yaml", "w") do |file|
   total_pages = 2 # Each page holds 200 books, adjust total_pages accordingly.
 
   while page <= total_pages do
+
     shelf = client.shelf(USER_ID,
                          "to-read",
                          sort: "author",

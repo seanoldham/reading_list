@@ -37,12 +37,6 @@ function loadLists() {
     });
   });
 
-  getTemplateAjax('templates/up-next.hbars.html', function(tmpl) {
-    loadYAML("up-next", function(yaml) {
-      $("#up-next").html(tmpl(yaml));
-    });
-  });
-
   getTemplateAjax('templates/to-read.hbars.html', function(tmpl) {
     loadYAML("to-read", function(yaml) {
       $("#to-read").html(tmpl(yaml));
@@ -67,7 +61,6 @@ function loadLists() {
       }
       $("#finished").html(tmpl(yaml));
       finished_yaml = yaml;
-      loadTimeline(yaml);
     });
   });
 
@@ -90,28 +83,6 @@ $(document).on('click', '.bootbox', function(){
   if(classname && !$('.' + classname).parents('.modal-dialog').length)
     bootbox.hideAll();
 });
-
-function loadTimeline(finished_yaml) {
-  var books = []
-  $.each(finished_yaml, function(idx, book) {
-    books.push({
-      "startDate": book.finished.replace(/\//g,","),
-      "headline": book.author + ": " + book.title
-    });
-  });
-  var timelineData = { "timeline": {
-    "type": "default",
-    "date": books
-  }};
-  createStoryJS({
-    width: "100%",
-    height: "400",
-    source: timelineData,
-    embed_id: 'finished-timeline',
-    start_at_end: true,
-    start_zoom_adjust: 3
-  });
-}
 
 $(document).ready(function() {
   quotes_body_tmpl = null;
