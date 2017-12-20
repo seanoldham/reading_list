@@ -3,10 +3,6 @@ load "secrets.rb" # Needs KEY, SECRET, USER_ID constants
 
 client = Goodreads::Client.new(api_key: KEY, api_secret: SECRET)
 
-user = client.user(USER_ID)
-
-last_status_object = user.updates[0].object
-
 File.open("../data/to-read.yaml", "w") do |file|
   book_list = []
   sorted_books = []
@@ -38,17 +34,4 @@ File.open("../data/to-read.yaml", "w") do |file|
     url = book["book"]["link"]
     file.puts "- author: #{author}\n  title: \"#{title}\"\n  url: \"#{url}\""
   end
-end
-
-if last_status_object.user_status
-  File.open("../data/currently-reading.yaml", "w") do |file|
-    author = last_status_object.user_status.page.book.author.name
-    title = last_status_object.user_status.page.book.title
-    total = last_status_object.user_status.page.book.num_pages
-    page = last_status_object.user_status.page.page
-    book_url = client.book(last_status_object.user_status.page.book_id).url
-    file.puts "- author: #{author}\n  title: \"#{title}\"\n  url: \"#{book_url}\"\n  total: #{total}\n  page: #{page}"
-  end
-else
-  puts "Nothing to update."
 end
