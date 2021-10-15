@@ -1,3 +1,5 @@
+# No longer functions, as Goodreads has stopped issuing API keys
+
 require "goodreads"
 load "secrets.rb" # Needs KEY, SECRET, USER_ID constants
 
